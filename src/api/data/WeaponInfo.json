@@ -1,0 +1,1171 @@
+[
+  {
+    "id": 0,
+    "name": "Sploosh-o-matic",
+    "sheldonOrder": 23,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Ultra Stamp",
+    "SubWeapon": "Curling Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Short_00.png"
+  },
+  {
+    "id": 1,
+    "name": "Neo Sploosh-o-matic",
+    "sheldonOrder": 43,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Killer Wail 5.1",
+    "SubWeapon": "Squid Beakon",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Short_01.png"
+  },
+  {
+    "id": 10,
+    "name": "Splattershot Jr.",
+    "sheldonOrder": 0,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Big Bubbler",
+    "SubWeapon": "Splat bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_First_00.png"
+  },
+  {
+    "id": 11,
+    "name": "Custom Splattershot Jr.",
+    "sheldonOrder": 13,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Wave Breaker",
+    "SubWeapon": "Torpedo",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_First_01.png"
+  },
+  {
+    "id": 20,
+    "name": "Splash-o-matic",
+    "sheldonOrder": 59,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Crab Tank",
+    "SubWeapon": "Burst Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Precision_00.png"
+  },
+  {
+    "id": 21,
+    "name": "Neo Splash-o-matic",
+    "sheldonOrder": 87,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Triple Inkstrike",
+    "SubWeapon": "Suction Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Precision_01.png"
+  },
+  {
+    "id": 30,
+    "name": "Aerospray MG",
+    "sheldonOrder": 10,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Reefslider",
+    "SubWeapon": "Fizzy Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Blaze_00.png"
+  },
+  {
+    "id": 31,
+    "name": "Aerospray RG",
+    "sheldonOrder": 69,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Booyah Bomb",
+    "SubWeapon": "Sprinkler",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Blaze_01.png"
+  },
+  {
+    "id": 40,
+    "name": "Splattershot",
+    "sheldonOrder": 1,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Trizooka",
+    "SubWeapon": "Suction Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Normal_00.png"
+  },
+  {
+    "id": 41,
+    "name": "Kensa Splattershot",
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Triple Inkstrike",
+    "SubWeapon": "Splat Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Normal_01.png"
+  },
+  {
+    "id": 50,
+    "name": ".52 Gal",
+    "sheldonOrder": 33,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Killer Wail 5.1",
+    "SubWeapon": "Splash Wall",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Gravity_00.png"
+  },
+  {
+    "id": 51,
+    "name": ".52 Gal Deco",
+    "sheldonOrder": 48,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Splattercolor Screen",
+    "SubWeapon": "Curling Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Gravity_01.png"
+  },
+  {
+    "id": 60,
+    "name": "N-ZAP '85",
+    "sheldonOrder": 14,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Tacticooler",
+    "SubWeapon": "Suction Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_QuickMiddle_00.png"
+  },
+  {
+    "id": 61,
+    "name": "N-ZAP '89",
+    "sheldonOrder": 34,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Super Chump",
+    "SubWeapon": "Autobomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_QuickMiddle_01.png"
+  },
+  {
+    "id": 70,
+    "name": "Splattershot Pro",
+    "sheldonOrder": 24,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Crab Tank",
+    "SubWeapon": "Angle Shooter",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Expert_00.png"
+  },
+  {
+    "id": 71,
+    "name": "Forge Splattershot Pro",
+    "sheldonOrder": 80,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Booyah Bomb",
+    "SubWeapon": "Suction Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Expert_01.png"
+  },
+  {
+    "id": 80,
+    "name": ".96 Gal",
+    "sheldonOrder": 64,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Ink Vac",
+    "SubWeapon": "Sprinkler",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Heavy_00.png"
+  },
+  {
+    "id": 81,
+    "name": ".96 Gal Deco",
+    "sheldonOrder": 95,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Kraken Royale",
+    "SubWeapon": "Splash Wall",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Heavy_01.png"
+  },
+  {
+    "id": 90,
+    "name": "Jet Squelcher",
+    "sheldonOrder": 53,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Ink Vac",
+    "SubWeapon": "Angle Shooter",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Long_00.png"
+  },
+  {
+    "id": 91,
+    "name": "Custom Jet Squelcher",
+    "sheldonOrder": 81,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Ink Storm",
+    "SubWeapon": "Toxic Mist",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Long_01.png"
+  },
+  {
+    "id": 100,
+    "name": "Splattershot Nova",
+    "sheldonOrder": 19,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Killer Wail 5.1",
+    "SubWeapon": "Point Sensor",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_QuickLong_00.png"
+  },
+  {
+    "id": 101,
+    "name": "Annaki Splattershot Nova",
+    "sheldonOrder": 38,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Inkjet",
+    "SubWeapon": "Ink Mine",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_QuickLong_01.png"
+  },
+  {
+    "id": 200,
+    "name": "Luna Blaster",
+    "sheldonOrder": 44,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Zipcaster",
+    "SubWeapon": "Splat Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_Short_00.png"
+  },
+  {
+    "id": 201,
+    "name": "Luna Blaster Neo",
+    "sheldonOrder": 100,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Ultra Stamp",
+    "SubWeapon": "Fizzy Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_Short_01.png"
+  },
+  {
+    "id": 210,
+    "name": "Blaster",
+    "sheldonOrder": 4,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Big Bubbler",
+    "SubWeapon": "Autobomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_Middle_00.png"
+  },
+  {
+    "id": 211,
+    "name": "Custom Blaster",
+    "sheldonOrder": 20,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Triple Splashdown",
+    "SubWeapon": "Point Sensor",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_Middle_01.png"
+  },
+  {
+    "id": 220,
+    "name": "Range Blaster",
+    "sheldonOrder": 35,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Wave Breaker",
+    "SubWeapon": "Suction Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_Long_00.png"
+  },
+  {
+    "id": 221,
+    "name": "Custom Range Blaster",
+    "sheldonOrder": 54,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Kraken Royale",
+    "SubWeapon": "Splat Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_Long_01.png"
+  },
+  {
+    "id": 230,
+    "name": "Clash Blaster",
+    "sheldonOrder": 91,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Trizooka",
+    "SubWeapon": "Splat Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_LightShort_00.png"
+  },
+  {
+    "id": 231,
+    "name": "Clash Blaster Neo",
+    "sheldonOrder": 105,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Super Chump",
+    "SubWeapon": "Curling Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_LightShort_01.png"
+  },
+  {
+    "id": 240,
+    "name": "Rapid Blaster",
+    "sheldonOrder": 16,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Triple Inkstrike",
+    "SubWeapon": "Ink Mine",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_Light_00.png"
+  },
+  {
+    "id": 241,
+    "name": "Rapid Blaster Deco",
+    "sheldonOrder": 27,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Inkjet",
+    "SubWeapon": "Torpedo",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_Light_01.png"
+  },
+  {
+    "id": 250,
+    "name": "Rapid Blaster Pro",
+    "sheldonOrder": 110,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Ink Vac",
+    "SubWeapon": "Toxic Mist",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_LightLong_00.png"
+  },
+  {
+    "id": 251,
+    "name": "Rapid Blaster Pro Deco",
+    "sheldonOrder": 121,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Killer Wail 5.1",
+    "SubWeapon": "Angle Shooter",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_LightLong_01.png"
+  },
+  {
+    "id": 260,
+    "name": "S-BLAST '92",
+    "sheldonOrder": 82,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Reefslider",
+    "SubWeapon": "Sprinkler",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_Precision_00.png"
+  },
+  {
+    "id": 261,
+    "name": "S-BLAST '91",
+    "sheldonOrder": 114,
+    "weaponCategory": "Blaster",
+    "SpecialWeapon": "Booyah Bomb",
+    "SubWeapon": "Burst Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Blaster_Precision_01.png"
+  },
+  {
+    "id": 300,
+    "name": "L-3 Nozzlenose",
+    "sheldonOrder": 45,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Crab Tank",
+    "SubWeapon": "Curling Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_TripleQuick_00.png"
+  },
+  {
+    "id": 301,
+    "name": "L-3 Nozzlenose D",
+    "sheldonOrder": 74,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Ultra Stamp",
+    "SubWeapon": "Burst Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_TripleQuick_01.png"
+  },
+  {
+    "id": 310,
+    "name": "H-3 Nozzlenose",
+    "sheldonOrder": 101,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Tacticooler",
+    "SubWeapon": "Point Sensor",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_TripleMiddle_00.png"
+  },
+  {
+    "id": 311,
+    "name": "H-3 Nozzlenose D",
+    "sheldonOrder": 115,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Big Bubbler",
+    "SubWeapon": "Splash Wall",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_TripleMiddle_01.png"
+  },
+  {
+    "id": 400,
+    "name": "Squeezer",
+    "sheldonOrder": 75,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Trizooka",
+    "SubWeapon": "Splash Wall",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Flash_00.png"
+  },
+  {
+    "id": 401,
+    "name": "Foil Squeezer",
+    "sheldonOrder": 106,
+    "weaponCategory": "Shooter",
+    "SpecialWeapon": "Splattercolor Screen",
+    "SubWeapon": "Autobomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shooter_Flash_01.png"
+  },
+  {
+    "id": 1000,
+    "name": "Carbon Roller",
+    "sheldonOrder": 15,
+    "weaponCategory": "Roller",
+    "SpecialWeapon": "Zipcaster",
+    "SubWeapon": "Autobomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Roller_Compact_00.png"
+  },
+  {
+    "id": 1001,
+    "name": "Carbon Roller Deco",
+    "sheldonOrder": 92,
+    "weaponCategory": "Roller",
+    "SpecialWeapon": "Trizooka",
+    "SubWeapon": "Burst Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Roller_Compact_01.png"
+  },
+  {
+    "id": 1010,
+    "name": "Splat Roller",
+    "sheldonOrder": 2,
+    "weaponCategory": "Roller",
+    "SpecialWeapon": "Big Bubbler",
+    "SubWeapon": "Curling Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Roller_Normal_00.png"
+  },
+  {
+    "id": 1011,
+    "name": "Krak-On Splat Roller",
+    "sheldonOrder": 17,
+    "weaponCategory": "Roller",
+    "SpecialWeapon": "Kraken Royale",
+    "SubWeapon": "Squid Beakon",
+    "imageUrl": "assets/images/weapon/Path_Wst_Roller_Normal_01.png"
+  },
+  {
+    "id": 1020,
+    "name": "Dynamo Roller",
+    "sheldonOrder": 39,
+    "weaponCategory": "Roller",
+    "SpecialWeapon": "Tacticooler",
+    "SubWeapon": "Sprinkler",
+    "imageUrl": "assets/images/weapon/Path_Wst_Roller_Heavy_00.png"
+  },
+  {
+    "id": 1021,
+    "name": "Gold Dynamo Roller",
+    "sheldonOrder": 65,
+    "weaponCategory": "Roller",
+    "SpecialWeapon": "Super Chump",
+    "SubWeapon": "Splat Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Roller_Heavy_01.png"
+  },
+  {
+    "id": 1030,
+    "name": "Flingza Roller",
+    "sheldonOrder": 83,
+    "weaponCategory": "Roller",
+    "SpecialWeapon": "Tenta Missiles",
+    "SubWeapon": "Ink Mine",
+    "imageUrl": "assets/images/weapon/Path_Wst_Roller_Hunter_00.png"
+  },
+  {
+    "id": 1031,
+    "name": "Foil Flingza Roller",
+    "sheldonOrder": 102,
+    "weaponCategory": "Roller",
+    "SpecialWeapon": "Splattercolor Screen",
+    "SubWeapon": "Suction Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Roller_Hunter_01.png"
+  },
+  {
+    "id": 1040,
+    "name": "Big Swig Roller",
+    "sheldonOrder": 60,
+    "weaponCategory": "Roller",
+    "SpecialWeapon": "Ink Vac",
+    "SubWeapon": "Splash Wall",
+    "imageUrl": "assets/images/weapon/Path_Wst_Roller_Wide_00.png"
+  },
+  {
+    "id": 1041,
+    "name": "Big Swig Roller Express",
+    "sheldonOrder": 70,
+    "weaponCategory": "Roller",
+    "SpecialWeapon": "Ink Storm",
+    "SubWeapon": "Angle Shooter",
+    "imageUrl": "assets/images/weapon/Path_Wst_Roller_Wide_01.png"
+  },
+  {
+    "id": 1100,
+    "name": "Inkbrush",
+    "sheldonOrder": 18,
+    "weaponCategory": "Brush",
+    "SpecialWeapon": "Killer Wail 5.1",
+    "SubWeapon": "Splat Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Brush_Mini_00.png"
+  },
+  {
+    "id": 1101,
+    "name": "Inkbrush Nouveau",
+    "sheldonOrder": 55,
+    "weaponCategory": "Brush",
+    "SpecialWeapon": "Ultra Stamp",
+    "SubWeapon": "Ink Mine",
+    "imageUrl": "assets/images/weapon/Path_Wst_Brush_Mini_01.png"
+  },
+  {
+    "id": 1110,
+    "name": "Octobrush",
+    "sheldonOrder": 7,
+    "weaponCategory": "Brush",
+    "SpecialWeapon": "Zipcaster",
+    "SubWeapon": "Suction Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Brush_Normal_00.png"
+  },
+  {
+    "id": 1111,
+    "name": "Octobrush Nouveau",
+    "sheldonOrder": 25,
+    "weaponCategory": "Brush",
+    "SpecialWeapon": "Ink Storm",
+    "SubWeapon": "Squid Beakon",
+    "imageUrl": "assets/images/weapon/Path_Wst_Brush_Normal_01.png"
+  },
+  {
+    "id": 1120,
+    "name": "Painbrush",
+    "sheldonOrder": 49,
+    "weaponCategory": "Brush",
+    "SpecialWeapon": "Wave Breaker",
+    "SubWeapon": "Curling Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Brush_Heavy_00.png"
+  },
+  {
+    "id": 1121,
+    "name": "Painbrush Nouveau",
+    "sheldonOrder": 61,
+    "weaponCategory": "Brush",
+    "SpecialWeapon": "Tenta Missiles",
+    "SubWeapon": "Point Sensor",
+    "imageUrl": "assets/images/weapon/Path_Wst_Brush_Heavy_01.png"
+  },
+  {
+    "id": 2000,
+    "name": "Classic Squiffer",
+    "sheldonOrder": 21,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Big Bubbler",
+    "SubWeapon": "Point Sensor",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_Quick_00.png"
+  },
+  {
+    "id": 2001,
+    "name": "New Squiffer",
+    "sheldonOrder": 36,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Zipcaster",
+    "SubWeapon": "Autobomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_Quick_01.png"
+  },
+  {
+    "id": 2010,
+    "name": "Splat Charger",
+    "sheldonOrder": 3,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Ink Vac",
+    "SubWeapon": "Splat Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_Normal_00.png"
+  },
+  {
+    "id": 2011,
+    "name": "Z+F Splat Charger",
+    "sheldonOrder": 26,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Triple Inkstrike",
+    "SubWeapon": "Splash Wall",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_Normal_01.png"
+  },
+  {
+    "id": 2020,
+    "name": "Splatterscope",
+    "sheldonOrder": 28,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Ink Vac",
+    "SubWeapon": "Splat Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_NormalScope_00.png"
+  },
+  {
+    "id": 2021,
+    "name": "Z+F Splatterscope",
+    "sheldonOrder": 56,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Triple Inkstrike",
+    "SubWeapon": "Splash Wall",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_NormalScope_01.png"
+  },
+  {
+    "id": 2030,
+    "name": "E-liter 4K",
+    "sheldonOrder": 71,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Wave Breaker",
+    "SubWeapon": "Ink Mine",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_Long_00.png"
+  },
+  {
+    "id": 2031,
+    "name": "Custom E-liter 4K",
+    "sheldonOrder": 84,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Kraken Royale",
+    "SubWeapon": "Squid Beakon",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_Long_01.png"
+  },
+  {
+    "id": 2040,
+    "name": "E-liter 4K Scope",
+    "sheldonOrder": 116,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Wave Breaker",
+    "SubWeapon": "Ink Mine",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_LongScope_00.png"
+  },
+  {
+    "id": 2041,
+    "name": "Custom E-liter 4K Scope",
+    "sheldonOrder": 118,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Kraken Royale",
+    "SubWeapon": "Squid Beakon",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_LongScope_01.png"
+  },
+  {
+    "id": 2050,
+    "name": "Bamboozler 14 Mk I",
+    "sheldonOrder": 96,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Killer Wail 5.1",
+    "SubWeapon": "Autobomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_Light_00.png"
+  },
+  {
+    "id": 2051,
+    "name": "Bamboozler 14 Mk II",
+    "sheldonOrder": 111,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Super Chump",
+    "SubWeapon": "Fizzy Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_Light_01.png"
+  },
+  {
+    "id": 2060,
+    "name": "Goo Tuber",
+    "sheldonOrder": 107,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Tenta Missiles",
+    "SubWeapon": "Torpedo",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_Keeper_00.png"
+  },
+  {
+    "id": 2061,
+    "name": "Custom Goo Tuber",
+    "sheldonOrder": 119,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Ultra Stamp",
+    "SubWeapon": "Fizzy Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_Keeper_01.png"
+  },
+  {
+    "id": 2070,
+    "name": "Snipewriter 5H",
+    "sheldonOrder": 50,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Tacticooler",
+    "SubWeapon": "Sprinkler",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_Pencil_00.png"
+  },
+  {
+    "id": 2071,
+    "name": "Snipewriter 5B",
+    "sheldonOrder": 76,
+    "weaponCategory": "Charger",
+    "SpecialWeapon": "Ink Storm",
+    "SubWeapon": "Splash Wall",
+    "imageUrl": "assets/images/weapon/Path_Wst_Charger_Pencil_01.png"
+  },
+  {
+    "id": 3000,
+    "name": "Slosher",
+    "sheldonOrder": 5,
+    "weaponCategory": "Slosher",
+    "SpecialWeapon": "Triple Inkstrike",
+    "SubWeapon": "Splat Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Slosher_Strong_00.png"
+  },
+  {
+    "id": 3001,
+    "name": "Slosher Deco",
+    "sheldonOrder": 40,
+    "weaponCategory": "Slosher",
+    "SpecialWeapon": "Zipcaster",
+    "SubWeapon": "Angle Shooter",
+    "imageUrl": "assets/images/weapon/Path_Wst_Slosher_Strong_01.png"
+  },
+  {
+    "id": 3010,
+    "name": "Tri-Slosher",
+    "sheldonOrder": 29,
+    "weaponCategory": "Slosher",
+    "SpecialWeapon": "Inkjet",
+    "SubWeapon": "Toxic Mist",
+    "imageUrl": "assets/images/weapon/Path_Wst_Slosher_Diffusion_00.png"
+  },
+  {
+    "id": 3011,
+    "name": "Tri-Slosher Nouveau",
+    "sheldonOrder": 66,
+    "weaponCategory": "Slosher",
+    "SpecialWeapon": "Tacticooler",
+    "SubWeapon": "Fizzy Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Slosher_Diffusion_01.png"
+  },
+  {
+    "id": 3020,
+    "name": "Sloshing Machine",
+    "sheldonOrder": 51,
+    "weaponCategory": "Slosher",
+    "SpecialWeapon": "Booyah Bomb",
+    "SubWeapon": "Fizzy Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Slosher_Launcher_00.png"
+  },
+  {
+    "id": 3021,
+    "name": "Sloshing Machine Neo",
+    "sheldonOrder": 88,
+    "weaponCategory": "Slosher",
+    "SpecialWeapon": "Trizooka",
+    "SubWeapon": "Point Sensor",
+    "imageUrl": "assets/images/weapon/Path_Wst_Slosher_Launcher_01.png"
+  },
+  {
+    "id": 3030,
+    "name": "Bloblobber",
+    "sheldonOrder": 77,
+    "weaponCategory": "Slosher",
+    "SpecialWeapon": "Ink Storm",
+    "SubWeapon": "Sprinkler",
+    "imageUrl": "assets/images/weapon/Path_Wst_Slosher_Bathtub_00.png"
+  },
+  {
+    "id": 3031,
+    "name": "Bloblobber Deco",
+    "sheldonOrder": 97,
+    "weaponCategory": "Slosher",
+    "SpecialWeapon": "Kraken Royale",
+    "SubWeapon": "Angle Shooter",
+    "imageUrl": "assets/images/weapon/Path_Wst_Slosher_Bathtub_01.png"
+  },
+  {
+    "id": 3040,
+    "name": "Explosher",
+    "sheldonOrder": 122,
+    "weaponCategory": "Slosher",
+    "SpecialWeapon": "Ink Storm",
+    "SubWeapon": "Point Sensor",
+    "imageUrl": "assets/images/weapon/Path_Wst_Slosher_Washtub_00.png"
+  },
+  {
+    "id": 3041,
+    "name": "Custom Explosher",
+    "sheldonOrder": 124,
+    "weaponCategory": "Slosher",
+    "SpecialWeapon": "Triple Splashdown",
+    "SubWeapon": "Splash Wall",
+    "imageUrl": "assets/images/weapon/Path_Wst_Slosher_Washtub_01.png"
+  },
+  {
+    "id": 3050,
+    "name": "Dread Wringer",
+    "sheldonOrder": 57,
+    "weaponCategory": "Slosher",
+    "SpecialWeapon": "Reefslider",
+    "SubWeapon": "Suction Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Slosher_Double_00.png"
+  },
+  {
+    "id": 3051,
+    "name": "Dread Wringer D",
+    "sheldonOrder": 72,
+    "weaponCategory": "Slosher",
+    "SpecialWeapon": "Wave Breaker",
+    "SubWeapon": "Squid Beakon",
+    "imageUrl": "assets/images/weapon/Path_Wst_Slosher_Double_01.png"
+  },
+  {
+    "id": 4000,
+    "name": "Mini Splatling",
+    "sheldonOrder": 41,
+    "weaponCategory": "Splatling",
+    "SpecialWeapon": "Ultra Stamp",
+    "SubWeapon": "Burst Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Spinner_Quick_00.png"
+  },
+  {
+    "id": 4001,
+    "name": "Zink Mini Splatling",
+    "sheldonOrder": 108,
+    "weaponCategory": "Splatling",
+    "SpecialWeapon": "Big Bubbler",
+    "SubWeapon": "Toxic Mist",
+    "imageUrl": "assets/images/weapon/Path_Wst_Spinner_Quick_01.png"
+  },
+  {
+    "id": 4010,
+    "name": "Heavy Splatling",
+    "sheldonOrder": 8,
+    "weaponCategory": "Splatling",
+    "SpecialWeapon": "Wave Breaker",
+    "SubWeapon": "Sprinkler",
+    "imageUrl": "assets/images/weapon/Path_Wst_Spinner_Standard_00.png"
+  },
+  {
+    "id": 4011,
+    "name": "Heavy Splatling Deco",
+    "sheldonOrder": 58,
+    "weaponCategory": "Splatling",
+    "SpecialWeapon": "Kraken Royale",
+    "SubWeapon": "Point Sensor",
+    "imageUrl": "assets/images/weapon/Path_Wst_Spinner_Standard_01.png"
+  },
+  {
+    "id": 4020,
+    "name": "Hydra Splatling",
+    "sheldonOrder": 85,
+    "weaponCategory": "Splatling",
+    "SpecialWeapon": "Booyah Bomb",
+    "SubWeapon": "Autobomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Spinner_Hyper_00.png"
+  },
+  {
+    "id": 4021,
+    "name": "Custom Hydra Splatling",
+    "sheldonOrder": 98,
+    "weaponCategory": "Splatling",
+    "SpecialWeapon": "Splattercolor Screen",
+    "SubWeapon": "Ink Mine",
+    "imageUrl": "assets/images/weapon/Path_Wst_Spinner_Hyper_01.png"
+  },
+  {
+    "id": 4030,
+    "name": "Ballpoint Splatling",
+    "sheldonOrder": 125,
+    "weaponCategory": "Splatling",
+    "SpecialWeapon": "Inkjet",
+    "SubWeapon": "Fizzy Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Spinner_Downpour_00.png"
+  },
+  {
+    "id": 4031,
+    "name": "Ballpoint Splatling Nouveau",
+    "sheldonOrder": 126,
+    "weaponCategory": "Splatling",
+    "SpecialWeapon": "Ink Vac",
+    "SubWeapon": "Ink Mine",
+    "imageUrl": "assets/images/weapon/Path_Wst_Spinner_Downpour_01.png"
+  },
+  {
+    "id": 4040,
+    "name": "Nautilus 47",
+    "sheldonOrder": 120,
+    "weaponCategory": "Splatling",
+    "SpecialWeapon": "Ink Storm",
+    "SubWeapon": "Point Sensor",
+    "imageUrl": "assets/images/weapon/Path_Wst_Spinner_Serein_00.png"
+  },
+  {
+    "id": 4041,
+    "name": "Nautilus 79",
+    "sheldonOrder": 123,
+    "weaponCategory": "Splatling",
+    "SpecialWeapon": "Triple Splashdown",
+    "SubWeapon": "Suction Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Spinner_Serein_01.png"
+  },
+  {
+    "id": 4050,
+    "name": "Heavy Edit Splatling",
+    "sheldonOrder": 46,
+    "weaponCategory": "Splatling",
+    "SpecialWeapon": "Tacticooler",
+    "SubWeapon": "Curling Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Spinner_HyperShort_00.png"
+  },
+  {
+    "id": 4051,
+    "name": "Heavy Edit Splatling Nouveau",
+    "sheldonOrder": 67,
+    "weaponCategory": "Splatling",
+    "SpecialWeapon": "Crab Tank",
+    "SubWeapon": "Splat Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Spinner_HyperShort_01.png"
+  },
+  {
+    "id": 5000,
+    "name": "Dapple Dualies",
+    "sheldonOrder": 52,
+    "weaponCategory": "Dualies",
+    "SpecialWeapon": "Tacticooler",
+    "SubWeapon": "Squid Beakon",
+    "imageUrl": "assets/images/weapon/Path_Wst_Maneuver_Short_00.png"
+  },
+  {
+    "id": 5001,
+    "name": "Dapple Dualies Nouveau",
+    "sheldonOrder": 112,
+    "weaponCategory": "Dualies",
+    "SpecialWeapon": "Reefslider",
+    "SubWeapon": "Torpedo",
+    "imageUrl": "assets/images/weapon/Path_Wst_Maneuver_Short_01.png"
+  },
+  {
+    "id": 5010,
+    "name": "Splat Dualies",
+    "sheldonOrder": 6,
+    "weaponCategory": "Dualies",
+    "SpecialWeapon": "Crab Tank",
+    "SubWeapon": "Suction Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Maneuver_Normal_00.png"
+  },
+  {
+    "id": 5011,
+    "name": "Enperry Splat Dualies",
+    "sheldonOrder": 30,
+    "weaponCategory": "Dualies",
+    "SpecialWeapon": "Triple Splashdown",
+    "SubWeapon": "Curling Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Maneuver_Normal_01.png"
+  },
+  {
+    "id": 5020,
+    "name": "Glooga Dualies",
+    "sheldonOrder": 89,
+    "weaponCategory": "Dualies",
+    "SpecialWeapon": "Booyah Bomb",
+    "SubWeapon": "Splash Wall",
+    "imageUrl": "assets/images/weapon/Path_Wst_Maneuver_Gallon_00.png"
+  },
+  {
+    "id": 5021,
+    "name": "Glooga Dualies Deco",
+    "sheldonOrder": 113,
+    "weaponCategory": "Dualies",
+    "SpecialWeapon": "Trizooka",
+    "SubWeapon": "Point Sensor",
+    "imageUrl": "assets/images/weapon/Path_Wst_Maneuver_Gallon_01.png"
+  },
+  {
+    "id": 5030,
+    "name": "Dualie Squelchers",
+    "sheldonOrder": 22,
+    "weaponCategory": "Dualies",
+    "SpecialWeapon": "Wave Breaker",
+    "SubWeapon": "Splat Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Maneuver_Dual_00.png"
+  },
+  {
+    "id": 5031,
+    "name": "Custom Dualie Squelchers",
+    "sheldonOrder": 62,
+    "weaponCategory": "Dualies",
+    "SpecialWeapon": "Super Chump",
+    "SubWeapon": "Squid Beakon",
+    "imageUrl": "assets/images/weapon/Path_Wst_Maneuver_Dual_01.png"
+  },
+  {
+    "id": 5040,
+    "name": "Dark Tetra Dualies",
+    "sheldonOrder": 68,
+    "weaponCategory": "Dualies",
+    "SpecialWeapon": "Reefslider",
+    "SubWeapon": "Autobomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Maneuver_Stepper_00.png"
+  },
+  {
+    "id": 5041,
+    "name": "Light Tetra Dualies",
+    "sheldonOrder": 103,
+    "weaponCategory": "Dualies",
+    "SpecialWeapon": "Zipcaster",
+    "SubWeapon": "Sprinkler",
+    "imageUrl": "assets/images/weapon/Path_Wst_Maneuver_Stepper_01.png"
+  },
+  {
+    "id": 5050,
+    "name": "Douser Dualies FF",
+    "sheldonOrder": 93,
+    "weaponCategory": "Dualies",
+    "SpecialWeapon": "Killer Wail 5.1",
+    "SubWeapon": "Ink Mine",
+    "imageUrl": "assets/images/weapon/Path_Wst_Maneuver_Long_00.png"
+  },
+  {
+    "id": 5051,
+    "name": "Custom Douser Dualies FF",
+    "sheldonOrder": 117,
+    "weaponCategory": "Dualies",
+    "SpecialWeapon": "Triple Inkstrike",
+    "SubWeapon": "Burst Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Maneuver_Long_01.png"
+  },
+  {
+    "id": 6000,
+    "name": "Splat Brella",
+    "sheldonOrder": 11,
+    "weaponCategory": "Brella",
+    "SpecialWeapon": "Triple Inkstrike",
+    "SubWeapon": "Sprinkler",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shelter_Normal_00.png"
+  },
+  {
+    "id": 6001,
+    "name": "Sorella Brella",
+    "sheldonOrder": 78,
+    "weaponCategory": "Brella",
+    "SpecialWeapon": "Inkjet",
+    "SubWeapon": "Autobomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shelter_Normal_01.png"
+  },
+  {
+    "id": 6010,
+    "name": "Tenta Brella",
+    "sheldonOrder": 63,
+    "weaponCategory": "Brella",
+    "SpecialWeapon": "Ink Vac",
+    "SubWeapon": "Squid Beakon",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shelter_Wide_00.png"
+  },
+  {
+    "id": 6011,
+    "name": "Tenta Sorella Brella",
+    "sheldonOrder": 94,
+    "weaponCategory": "Brella",
+    "SpecialWeapon": "Trizooka",
+    "SubWeapon": "Ink Mine",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shelter_Wide_01.png"
+  },
+  {
+    "id": 6020,
+    "name": "Undercover Brella",
+    "sheldonOrder": 73,
+    "weaponCategory": "Brella",
+    "SpecialWeapon": "Reefslider",
+    "SubWeapon": "Ink Mine",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shelter_Compact_00.png"
+  },
+  {
+    "id": 6021,
+    "name": "Undercover Sorella Brella",
+    "sheldonOrder": 99,
+    "weaponCategory": "Brella",
+    "SpecialWeapon": "Splattercolor Screen",
+    "SubWeapon": "Torpedo",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shelter_Compact_01.png"
+  },
+  {
+    "id": 6030,
+    "name": "Recycled Brella 24 Mk I",
+    "sheldonOrder": 47,
+    "weaponCategory": "Brella",
+    "SpecialWeapon": "Big Bubbler",
+    "SubWeapon": "Angle Shooter",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shelter_Focus_00.png"
+  },
+  {
+    "id": 6031,
+    "name": "Recycled Brella 24 Mk II",
+    "sheldonOrder": 86,
+    "weaponCategory": "Brella",
+    "SpecialWeapon": "Triple Splashdown",
+    "SubWeapon": "Toxic Mist",
+    "imageUrl": "assets/images/weapon/Path_Wst_Shelter_Focus_01.png"
+  },
+  {
+    "id": 7010,
+    "name": "Tri-Stringer",
+    "sheldonOrder": 9,
+    "weaponCategory": "Stringer",
+    "SpecialWeapon": "Killer Wail 5.1",
+    "SubWeapon": "Toxic Mist",
+    "imageUrl": "assets/images/weapon/Path_Wst_Stringer_Normal_00.png"
+  },
+  {
+    "id": 7011,
+    "name": "Inkline Tri-Stringer",
+    "sheldonOrder": 37,
+    "weaponCategory": "Stringer",
+    "SpecialWeapon": "Super Chump",
+    "SubWeapon": "Sprinkler",
+    "imageUrl": "assets/images/weapon/Path_Wst_Stringer_Normal_01.png"
+  },
+  {
+    "id": 7020,
+    "name": "Reef-Lux 450",
+    "sheldonOrder": 31,
+    "weaponCategory": "Stringer",
+    "SpecialWeapon": "Tenta Missiles",
+    "SubWeapon": "Curling Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Stringer_Short_00.png"
+  },
+  {
+    "id": 7021,
+    "name": "Reef-Lux 450 Deco",
+    "sheldonOrder": 42,
+    "weaponCategory": "Stringer",
+    "SpecialWeapon": "Reefslider",
+    "SubWeapon": "Splash Wall",
+    "imageUrl": "assets/images/weapon/Path_Wst_Stringer_Short_01.png"
+  },
+  {
+    "id": 7030,
+    "name": "Wellstringer",
+    "sheldonOrder": 79,
+    "weaponCategory": "Stringer",
+    "SpecialWeapon": "Ultra Stamp",
+    "SubWeapon": "Autobomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Stringer_Explosion_00.png"
+  },
+  {
+    "id": 7031,
+    "name": "Custom Wellstringer",
+    "sheldonOrder": 104,
+    "weaponCategory": "Stringer",
+    "SpecialWeapon": "Wave Breaker",
+    "SubWeapon": "Point Sensor",
+    "imageUrl": "assets/images/weapon/Path_Wst_Stringer_Explosion_01.png"
+  },
+  {
+    "id": 8010,
+    "name": "Splatana Wiper",
+    "sheldonOrder": 12,
+    "weaponCategory": "Splatana",
+    "SpecialWeapon": "Ultra Stamp",
+    "SubWeapon": "Torpedo",
+    "imageUrl": "assets/images/weapon/Path_Wst_Saber_Lite_00.png"
+  },
+  {
+    "id": 8011,
+    "name": "Splatana Wiper Deco",
+    "sheldonOrder": 32,
+    "weaponCategory": "Splatana",
+    "SpecialWeapon": "Tenta Missiles",
+    "SubWeapon": "Squid Beakon",
+    "imageUrl": "assets/images/weapon/Path_Wst_Saber_Lite_01.png"
+  },
+  {
+    "id": 8000,
+    "name": "Splatana Stamper",
+    "sheldonOrder": 59,
+    "weaponCategory": "Splatana",
+    "SpecialWeapon": "Zipcaster",
+    "SubWeapon": "Burst Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Saber_Normal_00.png"
+  },
+  {
+    "id": 8001,
+    "name": "Splatana Stamper Nouveau",
+    "sheldonOrder": 87,
+    "weaponCategory": "Splatana",
+    "SpecialWeapon": "Crab Tank",
+    "SubWeapon": "Toxic Mist",
+    "imageUrl": "assets/images/weapon/Path_Wst_Saber_Normal_01.png"
+  },
+  {
+    "id": 8020,
+    "name": "Mint Decavitator",
+    "weaponCategory": "Splatana",
+    "sheldonOrder": 90,
+    "SpecialWeapon": "Big Bubbler",
+    "SubWeapon": "Suction Bomb",
+    "imageUrl": "assets/images/weapon/Path_Wst_Saber_Heavy_00.png"
+  },
+  {
+    "id": 8020,
+    "name": "Charcoal Decavitator",
+    "sheldonOrder": 109,
+    "weaponCategory": "Splatana",
+    "SpecialWeapon": "Inkjet",
+    "SubWeapon": "Splash Wall",
+    "imageUrl": "assets/images/weapon/Path_Wst_Saber_Heavy_01.png"
+  }
+]

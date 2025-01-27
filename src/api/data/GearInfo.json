@@ -1,0 +1,6393 @@
+[
+  {
+    "id": 1,
+    "name": "Tentaclinger Earring",
+    "brand": "Toni Kensa",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_ACC003.png"
+  },
+  {
+    "id": 2,
+    "name": "Squid Hairclip",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB000.png"
+  },
+  {
+    "id": 3,
+    "name": "Samurai Helmet",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB001.png"
+  },
+  {
+    "id": 4,
+    "name": "Power Mask",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB002.png"
+  },
+  {
+    "id": 5,
+    "name": "Squid Clip-Ons",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB003.png"
+  },
+  {
+    "id": 6,
+    "name": "Squinja Mask Mk II",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB004.png"
+  },
+  {
+    "id": 7,
+    "name": "Power Mask Mk I",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB005.png"
+  },
+  {
+    "id": 8,
+    "name": "Pearlescent Crown S",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB006.png"
+  },
+  {
+    "id": 9,
+    "name": "Marinated Headphones",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB007.png"
+  },
+  {
+    "id": 10,
+    "name": "Enchanted Hat",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB008.png"
+  },
+  {
+    "id": 11,
+    "name": "Steel Helm",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB009.png"
+  },
+  {
+    "id": 12,
+    "name": "Fresh Fish Head",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB010.png"
+  },
+  {
+    "id": 13,
+    "name": "Boss Floss",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB011.png"
+  },
+  {
+    "id": 14,
+    "name": "Sushi Sous-Chef Band",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB012.png"
+  },
+  {
+    "id": 15,
+    "name": "Chaos Helm",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB013.png"
+  },
+  {
+    "id": 16,
+    "name": "Squinja Mask Mk I",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB016.png"
+  },
+  {
+    "id": 17,
+    "name": "Pearlescent Crown L",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB017.png"
+  },
+  {
+    "id": 18,
+    "name": "Hohojiro Mask",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB018.png"
+  },
+  {
+    "id": 19,
+    "name": "Onaga Mask",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB019.png"
+  },
+  {
+    "id": 20,
+    "name": "Manta Mask",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB020.png"
+  },
+  {
+    "id": 21,
+    "name": "World Tour Crown",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB021.png"
+  },
+  {
+    "id": 22,
+    "name": "World Tour Headphones",
+    "brand": "amiibo",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_AMB022.png"
+  },
+  {
+    "id": 23,
+    "name": "Urchins Cap",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP000.png"
+  },
+  {
+    "id": 24,
+    "name": "Lightweight Cap",
+    "brand": "Inkline",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP001.png"
+  },
+  {
+    "id": 25,
+    "name": "Takoroka Mesh",
+    "brand": "Takoroka",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP002.png"
+  },
+  {
+    "id": 26,
+    "name": "Streetstyle Cap",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP003.png"
+  },
+  {
+    "id": 27,
+    "name": "Squid-Stitch Cap",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP004.png"
+  },
+  {
+    "id": 28,
+    "name": "Squidvader Cap",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP005.png"
+  },
+  {
+    "id": 29,
+    "name": "Camo Mesh",
+    "brand": "Firefin",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP006.png"
+  },
+  {
+    "id": 30,
+    "name": "Five-Panel Cap",
+    "brand": "Zekko",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP007.png"
+  },
+  {
+    "id": 31,
+    "name": "Zekko Mesh",
+    "brand": "Zekko",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP008.png"
+  },
+  {
+    "id": 32,
+    "name": "Backward Cap",
+    "brand": "Zekko",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP009.png"
+  },
+  {
+    "id": 33,
+    "name": "Two-Stripe Mesh",
+    "brand": "Krak-On",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP010.png"
+  },
+  {
+    "id": 34,
+    "name": "Jet Cap",
+    "brand": "Firefin",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP011.png"
+  },
+  {
+    "id": 35,
+    "name": "Cycling Cap",
+    "brand": "Zink",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP012.png"
+  },
+  {
+    "id": 36,
+    "name": "Cycle King Cap",
+    "brand": "Tentatek",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP014.png"
+  },
+  {
+    "id": 37,
+    "name": "Long-Billed Cap",
+    "brand": "Krak-On",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP018.png"
+  },
+  {
+    "id": 38,
+    "name": "King Flip Mesh",
+    "brand": "Enperry",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP019.png"
+  },
+  {
+    "id": 39,
+    "name": "Hickory Work Cap",
+    "brand": "Krak-On",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP020.png"
+  },
+  {
+    "id": 40,
+    "name": "Woolly Urchins Classic",
+    "brand": "Krak-On",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP021.png"
+  },
+  {
+    "id": 41,
+    "name": "Jellyvader Cap",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP023.png"
+  },
+  {
+    "id": 42,
+    "name": "House-Tag Denim Cap",
+    "brand": "Splash Mob",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP024.png"
+  },
+  {
+    "id": 43,
+    "name": "Blowfish Newsie",
+    "brand": "Firefin",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP025.png"
+  },
+  {
+    "id": 44,
+    "name": "Do-Rag, Cap & Glasses",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP026.png"
+  },
+  {
+    "id": 45,
+    "name": "Pilot Hat",
+    "brand": "Splash Mob",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP027.png"
+  },
+  {
+    "id": 46,
+    "name": "Ink-Black Flap Cap",
+    "brand": "Barazushi",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP028.png"
+  },
+  {
+    "id": 47,
+    "name": "Coral Cap",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP029.png"
+  },
+  {
+    "id": 48,
+    "name": "Barrelfish Baseball Hat",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP030.png"
+  },
+  {
+    "id": 49,
+    "name": "Cap'n Cap",
+    "brand": "Splash Mob",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP031.png"
+  },
+  {
+    "id": 50,
+    "name": "Vintage Biker Cap",
+    "brand": "Barazushi",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP032.png"
+  },
+  {
+    "id": 51,
+    "name": "Flounder Flap Cap",
+    "brand": "Rockenberg",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP033.png"
+  },
+  {
+    "id": 52,
+    "name": "Dustcloud Cap",
+    "brand": "Z+F",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP034.png"
+  },
+  {
+    "id": 53,
+    "name": "Seafoam Cap",
+    "brand": "Z+F",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP035.png"
+  },
+  {
+    "id": 54,
+    "name": "Wharfside Cap",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP036.png"
+  },
+  {
+    "id": 55,
+    "name": "Clue-Detecting Cap",
+    "brand": "Rockenberg",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP037.png"
+  },
+  {
+    "id": 56,
+    "name": "Headlamp Hat",
+    "brand": "Inkline",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP038.png"
+  },
+  {
+    "id": 57,
+    "name": "Swim Cap",
+    "brand": "Emberz",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_CAP039.png"
+  },
+  {
+    "id": 58,
+    "name": "Headlamp Helmet",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP100.png"
+  },
+  {
+    "id": 59,
+    "name": "Dust Blocker 2000",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP101.png"
+  },
+  {
+    "id": 60,
+    "name": "Welding Mask",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP102.png"
+  },
+  {
+    "id": 61,
+    "name": "Beekeeper Hat",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP103.png"
+  },
+  {
+    "id": 62,
+    "name": "Octoleet Goggles",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP104.png"
+  },
+  {
+    "id": 63,
+    "name": "Cap of Legend",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP105.png"
+  },
+  {
+    "id": 64,
+    "name": "Worker's Head Towel",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP107.png"
+  },
+  {
+    "id": 65,
+    "name": "Worker's Cap",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP108.png"
+  },
+  {
+    "id": 66,
+    "name": "Sailor Cap",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP109.png"
+  },
+  {
+    "id": 67,
+    "name": "Bream-Brim Cap",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP110.png"
+  },
+  {
+    "id": 68,
+    "name": "Lo-Vis Visor",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP111.png"
+  },
+  {
+    "id": 69,
+    "name": "Five-Alarm Helmet",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP112.png"
+  },
+  {
+    "id": 70,
+    "name": "Astro Helm",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP113.png"
+  },
+  {
+    "id": 71,
+    "name": "360 All-Scopes",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP114.png"
+  },
+  {
+    "id": 72,
+    "name": "Brain Strainer",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP115.png"
+  },
+  {
+    "id": 73,
+    "name": "Deep Sinker Helm",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP116.png"
+  },
+  {
+    "id": 74,
+    "name": "Commander Cap",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP117.png"
+  },
+  {
+    "id": 75,
+    "name": "See-an-Enemy HUD",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP118.png"
+  },
+  {
+    "id": 76,
+    "name": "Retro Future Helmet",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP119.png"
+  },
+  {
+    "id": 77,
+    "name": "3D Glasses",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP120.png"
+  },
+  {
+    "id": 78,
+    "name": "El Rey Calamar",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP121.png"
+  },
+  {
+    "id": 79,
+    "name": "Octavio Dome",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP122.png"
+  },
+  {
+    "id": 80,
+    "name": "Hard Hat Replica",
+    "brand": "Grizzco",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_COP123.png"
+  },
+  {
+    "id": 81,
+    "name": "Retro Specs",
+    "brand": "Splash Mob",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE000.png"
+  },
+  {
+    "id": 82,
+    "name": "Splash Goggles",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE001.png"
+  },
+  {
+    "id": 83,
+    "name": "Pilot Goggles",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE002.png"
+  },
+  {
+    "id": 84,
+    "name": "Tinted Shades",
+    "brand": "Zekko",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE003.png"
+  },
+  {
+    "id": 85,
+    "name": "Black Arrowbands",
+    "brand": "Zekko",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE004.png"
+  },
+  {
+    "id": 86,
+    "name": "Snorkel Mask",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE005.png"
+  },
+  {
+    "id": 87,
+    "name": "White Arrowbands",
+    "brand": "Zekko",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE006.png"
+  },
+  {
+    "id": 88,
+    "name": "Fake Contacts",
+    "brand": "Tentatek",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE007.png"
+  },
+  {
+    "id": 89,
+    "name": "18K Aviators",
+    "brand": "Rockenberg",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE008.png"
+  },
+  {
+    "id": 90,
+    "name": "Full-Moon Glasses",
+    "brand": "Krak-On",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE009.png"
+  },
+  {
+    "id": 91,
+    "name": "Octoglasses",
+    "brand": "Firefin",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE010.png"
+  },
+  {
+    "id": 92,
+    "name": "Half-Rim Glasses",
+    "brand": "Splash Mob",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE011.png"
+  },
+  {
+    "id": 93,
+    "name": "Double Egg Shades",
+    "brand": "Zekko",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE012.png"
+  },
+  {
+    "id": 94,
+    "name": "Zekko Cap",
+    "brand": "Zekko",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE013.png"
+  },
+  {
+    "id": 95,
+    "name": "SV925 Circle Shades",
+    "brand": "Rockenberg",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE014.png"
+  },
+  {
+    "id": 96,
+    "name": "Annaki Beret & Glasses",
+    "brand": "Annaki",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE015.png"
+  },
+  {
+    "id": 97,
+    "name": "Swim Goggles",
+    "brand": "Zink",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE016.png"
+  },
+  {
+    "id": 98,
+    "name": "Ink-Guard Goggles",
+    "brand": "Toni Kensa",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE017.png"
+  },
+  {
+    "id": 99,
+    "name": "Toni Kensa Goggles",
+    "brand": "Toni Kensa",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE018.png"
+  },
+  {
+    "id": 100,
+    "name": "Ink-Tinted Goggles",
+    "brand": "Emberz",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE021.png"
+  },
+  {
+    "id": 101,
+    "name": "Retro Framers",
+    "brand": "Enperry",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE022.png"
+  },
+  {
+    "id": 102,
+    "name": "Glassless Glasses",
+    "brand": "Toni Kensa",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE023.png"
+  },
+  {
+    "id": 103,
+    "name": "Triple-Deck Specs",
+    "brand": "Enperry",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE024.png"
+  },
+  {
+    "id": 104,
+    "name": "Invisifloats",
+    "brand": "Inkline",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE025.png"
+  },
+  {
+    "id": 105,
+    "name": "Moto Shades",
+    "brand": "Barazushi",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE026.png"
+  },
+  {
+    "id": 106,
+    "name": "Annaki Charms",
+    "brand": "Annaki",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE027.png"
+  },
+  {
+    "id": 107,
+    "name": "Glam Clam Specs",
+    "brand": "Splash Mob",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE028.png"
+  },
+  {
+    "id": 108,
+    "name": "Retro BluFocals",
+    "brand": "Emberz",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE029.png"
+  },
+  {
+    "id": 109,
+    "name": "Sea-Me-Nots",
+    "brand": "Z+F",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE030.png"
+  },
+  {
+    "id": 110,
+    "name": "Hipster Horn-Rims",
+    "brand": "Splash Mob",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE031.png"
+  },
+  {
+    "id": 111,
+    "name": "Deluxury Sleep Mask",
+    "brand": "Emberz",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_EYE032.png"
+  },
+  {
+    "id": 112,
+    "name": "White Headband",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_FST000.png"
+  },
+  {
+    "id": 113,
+    "name": "Kyonshi Hat",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP000.png"
+  },
+  {
+    "id": 114,
+    "name": "Li'l Devil Horns",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP001.png"
+  },
+  {
+    "id": 115,
+    "name": "Hockey Mask",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP002.png"
+  },
+  {
+    "id": 116,
+    "name": "Anglerfish Mask",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP003.png"
+  },
+  {
+    "id": 117,
+    "name": "Festive Party Cone",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP004.png"
+  },
+  {
+    "id": 118,
+    "name": "New Year's Glasses DX",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP005.png"
+  },
+  {
+    "id": 119,
+    "name": "Twisty Headband",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP006.png"
+  },
+  {
+    "id": 120,
+    "name": "Eel-Cake Hat",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP007.png"
+  },
+  {
+    "id": 121,
+    "name": "Purple Novelty Visor",
+    "brand": "Tentatek",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP008.png"
+  },
+  {
+    "id": 122,
+    "name": "Green Novelty Visor",
+    "brand": "Tentatek",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP009.png"
+  },
+  {
+    "id": 123,
+    "name": "Orange Novelty Visor",
+    "brand": "Tentatek",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP010.png"
+  },
+  {
+    "id": 124,
+    "name": "Pink Novelty Visor",
+    "brand": "Tentatek",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP011.png"
+  },
+  {
+    "id": 125,
+    "name": "Jetflame Crest",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP012.png"
+  },
+  {
+    "id": 126,
+    "name": "Fierce Fishskull",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP013.png"
+  },
+  {
+    "id": 127,
+    "name": "Hivemind Antenna",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP014.png"
+  },
+  {
+    "id": 128,
+    "name": "Eye of Justice",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP015.png"
+  },
+  {
+    "id": 129,
+    "name": "Undead Head",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP016.png"
+  },
+  {
+    "id": 130,
+    "name": "The Plankton Walker",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP017.png"
+  },
+  {
+    "id": 131,
+    "name": "Swim Reaper",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP018.png"
+  },
+  {
+    "id": 132,
+    "name": "Bleak Beak",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP019.png"
+  },
+  {
+    "id": 133,
+    "name": "Dapperdasher Hat",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP020.png"
+  },
+  {
+    "id": 134,
+    "name": "Coral Wreath",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP021.png"
+  },
+  {
+    "id": 135,
+    "name": "Golden Gala Masque",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP022.png"
+  },
+  {
+    "id": 136,
+    "name": "Octopearl Crown",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP023.png"
+  },
+  {
+    "id": 137,
+    "name": "Teal Pinhole Shades",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP024.png"
+  },
+  {
+    "id": 138,
+    "name": "Green Pinhole Shades",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP025.png"
+  },
+  {
+    "id": 139,
+    "name": "Pink Pinhole Shades",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP026.png"
+  },
+  {
+    "id": 140,
+    "name": "Yellow Pinhole Shades",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP027.png"
+  },
+  {
+    "id": 141,
+    "name": "Lionfish Funface",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP028.png"
+  },
+  {
+    "id": 142,
+    "name": "Cowfish Funface",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP029.png"
+  },
+  {
+    "id": 143,
+    "name": "ZedFry Funface",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP030.png"
+  },
+  {
+    "id": 144,
+    "name": "Monkey-Crab Funface",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP031.png"
+  },
+  {
+    "id": 145,
+    "name": "Fox Funface",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP032.png"
+  },
+  {
+    "id": 146,
+    "name": "Cartoony Funface",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP033.png"
+  },
+  {
+    "id": 147,
+    "name": "Now or Never Spikes",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP034.png"
+  },
+  {
+    "id": 148,
+    "name": "Now or Never Crown",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP035.png"
+  },
+  {
+    "id": 149,
+    "name": "Now or Never Cap",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP036.png"
+  },
+  {
+    "id": 150,
+    "name": "Now or Never Earrings",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP037.png"
+  },
+  {
+    "id": 151,
+    "name": "Now or Never Barrette",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP038.png"
+  },
+  {
+    "id": 152,
+    "name": "Now or Never Horns",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP039.png"
+  },
+  {
+    "id": 153,
+    "name": "Now or Never Headdress",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAP040.png"
+  },
+  {
+    "id": 154,
+    "name": "Safari Hat",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT000.png"
+  },
+  {
+    "id": 155,
+    "name": "Jungle Hat",
+    "brand": "Firefin",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT001.png"
+  },
+  {
+    "id": 156,
+    "name": "Camping Hat",
+    "brand": "Inkline",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT002.png"
+  },
+  {
+    "id": 157,
+    "name": "Blowfish Bell Hat",
+    "brand": "Firefin",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT003.png"
+  },
+  {
+    "id": 158,
+    "name": "Bamboo Hat",
+    "brand": "Inkline",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT004.png"
+  },
+  {
+    "id": 159,
+    "name": "Straw Boater",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT005.png"
+  },
+  {
+    "id": 160,
+    "name": "Classic Straw Boater",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT006.png"
+  },
+  {
+    "id": 161,
+    "name": "Treasure Hunter",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT007.png"
+  },
+  {
+    "id": 162,
+    "name": "Bucket Hat",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT008.png"
+  },
+  {
+    "id": 163,
+    "name": "Patched Hat",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT009.png"
+  },
+  {
+    "id": 164,
+    "name": "Tulip Parasol",
+    "brand": "Inkline",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT010.png"
+  },
+  {
+    "id": 165,
+    "name": "Fugu Bell Hat",
+    "brand": "Firefin",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT011.png"
+  },
+  {
+    "id": 166,
+    "name": "Seashell Bamboo Hat",
+    "brand": "Inkline",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT012.png"
+  },
+  {
+    "id": 167,
+    "name": "Hothouse Hat",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT013.png"
+  },
+  {
+    "id": 168,
+    "name": "Mountie Hat",
+    "brand": "Inkline",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT014.png"
+  },
+  {
+    "id": 169,
+    "name": "Classic Bowler",
+    "brand": "Splash Mob",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT015.png"
+  },
+  {
+    "id": 170,
+    "name": "Jean Dream Bucket",
+    "brand": "Splash Mob",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT016.png"
+  },
+  {
+    "id": 171,
+    "name": "Howdy Hat",
+    "brand": "Rockenberg",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT017.png"
+  },
+  {
+    "id": 172,
+    "name": "Urchin Understitch",
+    "brand": "Krak-On",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT018.png"
+  },
+  {
+    "id": 173,
+    "name": "Beachcomber",
+    "brand": "Inkline",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT019.png"
+  },
+  {
+    "id": 174,
+    "name": "Z+F Flair Bowler",
+    "brand": "Z+F",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT020.png"
+  },
+  {
+    "id": 175,
+    "name": "Hat-Trick Bell Hat",
+    "brand": "Z+F",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT021.png"
+  },
+  {
+    "id": 176,
+    "name": "Sauna Hat",
+    "brand": "Inkline",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT022.png"
+  },
+  {
+    "id": 177,
+    "name": "Sea-Lily Hat",
+    "brand": "Rockenberg",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HAT023.png"
+  },
+  {
+    "id": 178,
+    "name": "B-ball Headband",
+    "brand": "Zink",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HBD001.png"
+  },
+  {
+    "id": 179,
+    "name": "Squash Headband",
+    "brand": "Zink",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HBD002.png"
+  },
+  {
+    "id": 180,
+    "name": "Tennis Headband",
+    "brand": "Tentatek",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HBD003.png"
+  },
+  {
+    "id": 181,
+    "name": "Jogging Headband",
+    "brand": "Zekko",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HBD004.png"
+  },
+  {
+    "id": 182,
+    "name": "Soccer Headband",
+    "brand": "Tentatek",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HBD005.png"
+  },
+  {
+    "id": 183,
+    "name": "FishFry Biscuit Bandana",
+    "brand": "Firefin",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HBD007.png"
+  },
+  {
+    "id": 184,
+    "name": "Black FishFry Bandana",
+    "brand": "Firefin",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HBD008.png"
+  },
+  {
+    "id": 185,
+    "name": "Squidband",
+    "brand": "Zink",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HBD009.png"
+  },
+  {
+    "id": 186,
+    "name": "Studio Headphones",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HDP000.png"
+  },
+  {
+    "id": 187,
+    "name": "Designer Headphones",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HDP001.png"
+  },
+  {
+    "id": 188,
+    "name": "Noise Cancelers",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HDP002.png"
+  },
+  {
+    "id": 189,
+    "name": "Squidfin Hook Cans",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HDP003.png"
+  },
+  {
+    "id": 190,
+    "name": "Squidlife Headphones",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HDP004.png"
+  },
+  {
+    "id": 191,
+    "name": "Ocho OctoPhones",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HDP007.png"
+  },
+  {
+    "id": 192,
+    "name": "Cephalo Pods",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HDP008.png"
+  },
+  {
+    "id": 193,
+    "name": "Ocho OctoPhones Blancos",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HDP009.png"
+  },
+  {
+    "id": 194,
+    "name": "Aux Boxes",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HDP010.png"
+  },
+  {
+    "id": 195,
+    "name": "Dustcloud 'Phones",
+    "brand": "Z+F",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HDP011.png"
+  },
+  {
+    "id": 196,
+    "name": "Seafoam 'Phones",
+    "brand": "Z+F",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_HDP012.png"
+  },
+  {
+    "id": 197,
+    "name": "INVISIBLE",
+    "brand": "None",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_INV000.png"
+  },
+  {
+    "id": 198,
+    "name": "Bike Helmet",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET000.png"
+  },
+  {
+    "id": 199,
+    "name": "Stealth Goggles",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET002.png"
+  },
+  {
+    "id": 200,
+    "name": "Skate Helmet",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET004.png"
+  },
+  {
+    "id": 201,
+    "name": "Visor Skate Helmet",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET005.png"
+  },
+  {
+    "id": 202,
+    "name": "MTB Helmet",
+    "brand": "Zekko",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET006.png"
+  },
+  {
+    "id": 203,
+    "name": "Hockey Helmet",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET007.png"
+  },
+  {
+    "id": 204,
+    "name": "Matte Bike Helmet",
+    "brand": "Zekko",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET008.png"
+  },
+  {
+    "id": 205,
+    "name": "Octo Tackle Helmet Deco",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET009.png"
+  },
+  {
+    "id": 206,
+    "name": "Deca Tackle Visor Helmet",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET011.png"
+  },
+  {
+    "id": 207,
+    "name": "Winkle Stripe Helm",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET012.png"
+  },
+  {
+    "id": 208,
+    "name": "Party Hard Hat",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET013.png"
+  },
+  {
+    "id": 209,
+    "name": "Home-Team Catcher",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET014.png"
+  },
+  {
+    "id": 210,
+    "name": "Away-Team Catcher",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET015.png"
+  },
+  {
+    "id": 211,
+    "name": "Scrum Cap",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET016.png"
+  },
+  {
+    "id": 212,
+    "name": "Barrelfish Headgear",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET017.png"
+  },
+  {
+    "id": 213,
+    "name": "Barrelfish Home Helmet",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET018.png"
+  },
+  {
+    "id": 214,
+    "name": "ZedFry Helmet",
+    "brand": "Z+F",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET019.png"
+  },
+  {
+    "id": 215,
+    "name": "Slipstream Helmet Pro",
+    "brand": "Tentatek",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET020.png"
+  },
+  {
+    "id": 216,
+    "name": "Slipstream Helmet",
+    "brand": "Zink",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MET021.png"
+  },
+  {
+    "id": 217,
+    "name": "Gas Mask",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK000.png"
+  },
+  {
+    "id": 218,
+    "name": "Paintball Mask",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK001.png"
+  },
+  {
+    "id": 219,
+    "name": "Paisley Bandana",
+    "brand": "Krak-On",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK002.png"
+  },
+  {
+    "id": 220,
+    "name": "Skull Bandana",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK003.png"
+  },
+  {
+    "id": 221,
+    "name": "Painter's Mask",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK004.png"
+  },
+  {
+    "id": 222,
+    "name": "Annaki Mask",
+    "brand": "Annaki",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK005.png"
+  },
+  {
+    "id": 223,
+    "name": "Octoking Facemask",
+    "brand": "Enperry",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK006.png"
+  },
+  {
+    "id": 224,
+    "name": "Squid Facemask",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK007.png"
+  },
+  {
+    "id": 225,
+    "name": "Firefin Facemask",
+    "brand": "Firefin",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK008.png"
+  },
+  {
+    "id": 226,
+    "name": "King Facemask",
+    "brand": "Enperry",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK009.png"
+  },
+  {
+    "id": 227,
+    "name": "Motocross Nose Guard",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK010.png"
+  },
+  {
+    "id": 228,
+    "name": "Forge Mask",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK011.png"
+  },
+  {
+    "id": 229,
+    "name": "Digi-Camo Forge Mask",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK012.png"
+  },
+  {
+    "id": 230,
+    "name": "BlobMob Mask",
+    "brand": "Emberz",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK014.png"
+  },
+  {
+    "id": 231,
+    "name": "Air Gills DX",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK015.png"
+  },
+  {
+    "id": 232,
+    "name": "Squidbeak Shield",
+    "brand": "Toni Kensa",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK016.png"
+  },
+  {
+    "id": 233,
+    "name": "Meetcha Mask",
+    "brand": "Emberz",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK017.png"
+  },
+  {
+    "id": 234,
+    "name": "Stealth Squidbeak Shield",
+    "brand": "Toni Kensa",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK018.png"
+  },
+  {
+    "id": 235,
+    "name": "Snaxolotl Hood",
+    "brand": "Z+F",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSK019.png"
+  },
+  {
+    "id": 236,
+    "name": "Hero Headset Replica",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSN000.png"
+  },
+  {
+    "id": 237,
+    "name": "Armor Helmet Replica",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSN004.png"
+  },
+  {
+    "id": 238,
+    "name": "Teddy Band",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSN109.png"
+  },
+  {
+    "id": 239,
+    "name": "Fuzz-Octoling Goggles",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSN110.png"
+  },
+  {
+    "id": 240,
+    "name": "Survival Ear",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSN301.png"
+  },
+  {
+    "id": 241,
+    "name": "Hero Brain Lv1",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSN302.png"
+  },
+  {
+    "id": 242,
+    "name": "Hero Brain Lv2",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSN303.png"
+  },
+  {
+    "id": 243,
+    "name": "Hero Brain Lv3",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSN304.png"
+  },
+  {
+    "id": 244,
+    "name": "Hero Brain ST",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSN305.png"
+  },
+  {
+    "id": 245,
+    "name": "Hero Mindset Replica",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSN306.png"
+  },
+  {
+    "id": 246,
+    "name": "Hero Grip Replica",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSN307.png"
+  },
+  {
+    "id": 247,
+    "name": "Legendary Cap",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSN310.png"
+  },
+  {
+    "id": 248,
+    "name": "Captain's Cap Replica",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_MSN311.png"
+  },
+  {
+    "id": 249,
+    "name": "Bobble Hat",
+    "brand": "Splash Mob",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_NCP000.png"
+  },
+  {
+    "id": 250,
+    "name": "Short Beanie",
+    "brand": "Inkline",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_NCP001.png"
+  },
+  {
+    "id": 251,
+    "name": "Striped Beanie",
+    "brand": "Splash Mob",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_NCP002.png"
+  },
+  {
+    "id": 252,
+    "name": "Sporty Bobble Hat",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_NCP003.png"
+  },
+  {
+    "id": 253,
+    "name": "Special-Forces Beret",
+    "brand": "Forge",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_NCP004.png"
+  },
+  {
+    "id": 254,
+    "name": "Squid Nordic",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_NCP005.png"
+  },
+  {
+    "id": 255,
+    "name": "Knitted Hat",
+    "brand": "Firefin",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_NCP008.png"
+  },
+  {
+    "id": 256,
+    "name": "Annaki Beret",
+    "brand": "Annaki",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_NCP009.png"
+  },
+  {
+    "id": 257,
+    "name": "Yamagiri Beanie",
+    "brand": "Inkline",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_NCP010.png"
+  },
+  {
+    "id": 258,
+    "name": "Sneaky Beanie",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_NCP011.png"
+  },
+  {
+    "id": 259,
+    "name": "Anglerfish Knit",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_NCP012.png"
+  },
+  {
+    "id": 260,
+    "name": "ZedFry Beanie",
+    "brand": "Z+F",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_NCP013.png"
+  },
+  {
+    "id": 261,
+    "name": "Order Earring Replica",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_SDODR200.png"
+  },
+  {
+    "id": 262,
+    "name": "Order Regulator Replica",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_SDODR201.png"
+  },
+  {
+    "id": 263,
+    "name": "Controller VM",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_SDODR202.png"
+  },
+  {
+    "id": 264,
+    "name": "Parallel Mask",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_SDODR203.png"
+  },
+  {
+    "id": 265,
+    "name": "Pearl Plushie",
+    "brand": "Cuttlegear",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_SDODR204.png"
+  },
+  {
+    "id": 266,
+    "name": "Stay Crusty Cap",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_TRG000.png"
+  },
+  {
+    "id": 267,
+    "name": "Judicial Hearing",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_TRG001.png"
+  },
+  {
+    "id": 268,
+    "name": "Golf Visor",
+    "brand": "Zink",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_VIS000.png"
+  },
+  {
+    "id": 269,
+    "name": "FishFry Visor",
+    "brand": "Firefin",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_VIS001.png"
+  },
+  {
+    "id": 270,
+    "name": "Sun Visor",
+    "brand": "Tentatek",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_VIS002.png"
+  },
+  {
+    "id": 271,
+    "name": "Takoroka Visor",
+    "brand": "Takoroka",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_VIS003.png"
+  },
+  {
+    "id": 272,
+    "name": "Face Visor",
+    "brand": "Toni Kensa",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_VIS004.png"
+  },
+  {
+    "id": 273,
+    "name": "Crust Bucket Visor",
+    "brand": "SquidForce",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_VIS005.png"
+  },
+  {
+    "id": 274,
+    "name": "Tee Time Visor",
+    "brand": "Skalop",
+    "gearType": "head",
+    "imageUrl": "assets/images/gear/Hed_VIS006.png"
+  },
+  {
+    "id": 275,
+    "name": "School Uniform A",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB000.png"
+  },
+  {
+    "id": 276,
+    "name": "Samurai Jacket",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB001.png"
+  },
+  {
+    "id": 277,
+    "name": "Power Armor",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB002.png"
+  },
+  {
+    "id": 278,
+    "name": "School Cardigan A",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB003.png"
+  },
+  {
+    "id": 279,
+    "name": "Squinja Suit",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB004.png"
+  },
+  {
+    "id": 280,
+    "name": "Power Armor Mk I",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB005.png"
+  },
+  {
+    "id": 281,
+    "name": "Pearlescent Hoodie",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB006.png"
+  },
+  {
+    "id": 282,
+    "name": "Marinated Top",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB007.png"
+  },
+  {
+    "id": 283,
+    "name": "Enchanted Robe A",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB008.png"
+  },
+  {
+    "id": 284,
+    "name": "Steel Platemail",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB009.png"
+  },
+  {
+    "id": 285,
+    "name": "Fresh Fish Gloves",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB010.png"
+  },
+  {
+    "id": 286,
+    "name": "Schoolyard Scrap Jack",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB011.png"
+  },
+  {
+    "id": 287,
+    "name": "Black-Belt Gi",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB012.png"
+  },
+  {
+    "id": 288,
+    "name": "Chaos Commander Suit",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB013.png"
+  },
+  {
+    "id": 289,
+    "name": "School Uniform B",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB014.png"
+  },
+  {
+    "id": 290,
+    "name": "School Cardigan B",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB015.png"
+  },
+  {
+    "id": 291,
+    "name": "Enchanted Robe B",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB017.png"
+  },
+  {
+    "id": 292,
+    "name": "Chomp Top",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB018.png"
+  },
+  {
+    "id": 293,
+    "name": "Eelneck Tank",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB019.png"
+  },
+  {
+    "id": 294,
+    "name": "Big Slick",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB020.png"
+  },
+  {
+    "id": 295,
+    "name": "World Tour Puffy Coat",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB021.png"
+  },
+  {
+    "id": 296,
+    "name": "World Tour Jacket",
+    "brand": "amiibo",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_AMB022.png"
+  },
+  {
+    "id": 297,
+    "name": "Orange Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP001.png"
+  },
+  {
+    "id": 298,
+    "name": "Green Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP002.png"
+  },
+  {
+    "id": 299,
+    "name": "Yellow Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP003.png"
+  },
+  {
+    "id": 300,
+    "name": "Pink Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP004.png"
+  },
+  {
+    "id": 301,
+    "name": "Blue Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP005.png"
+  },
+  {
+    "id": 302,
+    "name": "Black Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP006.png"
+  },
+  {
+    "id": 303,
+    "name": "White Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP007.png"
+  },
+  {
+    "id": 304,
+    "name": "Orange Gloopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP008.png"
+  },
+  {
+    "id": 305,
+    "name": "Black Gloopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP009.png"
+  },
+  {
+    "id": 306,
+    "name": "Yellow Gloopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP010.png"
+  },
+  {
+    "id": 307,
+    "name": "Brown Gloopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP011.png"
+  },
+  {
+    "id": 308,
+    "name": "Polka-Dot Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP012.png"
+  },
+  {
+    "id": 309,
+    "name": "Camo Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP013.png"
+  },
+  {
+    "id": 310,
+    "name": "Koi Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP014.png"
+  },
+  {
+    "id": 311,
+    "name": "Peach Gloopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP015.png"
+  },
+  {
+    "id": 312,
+    "name": "Lime Gloopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP016.png"
+  },
+  {
+    "id": 313,
+    "name": "Berry Gloopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP017.png"
+  },
+  {
+    "id": 314,
+    "name": "Silver Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP018.png"
+  },
+  {
+    "id": 315,
+    "name": "Gold Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP019.png"
+  },
+  {
+    "id": 316,
+    "name": "Iridescent Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP020.png"
+  },
+  {
+    "id": 317,
+    "name": "Heavy-Duty Slopsuit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP021.png"
+  },
+  {
+    "id": 318,
+    "name": "Squiddor Polo",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP100.png"
+  },
+  {
+    "id": 319,
+    "name": "Anchor Life Vest",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP101.png"
+  },
+  {
+    "id": 320,
+    "name": "Juice Parka",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP102.png"
+  },
+  {
+    "id": 321,
+    "name": "Garden Gear",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP103.png"
+  },
+  {
+    "id": 322,
+    "name": "Crustwear XXL",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP104.png"
+  },
+  {
+    "id": 323,
+    "name": "North-Country Parka",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP105.png"
+  },
+  {
+    "id": 324,
+    "name": "Octoleet Armor",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP106.png"
+  },
+  {
+    "id": 325,
+    "name": "Dev Uniform",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP108.png"
+  },
+  {
+    "id": 326,
+    "name": "Office Attire",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP109.png"
+  },
+  {
+    "id": 327,
+    "name": "SRL Coat",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP110.png"
+  },
+  {
+    "id": 328,
+    "name": "Commander Tunic",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP111.png"
+  },
+  {
+    "id": 329,
+    "name": "Astro Wear",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP112.png"
+  },
+  {
+    "id": 330,
+    "name": "Retro Future Suit",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP113.png"
+  },
+  {
+    "id": 331,
+    "name": "Brinestone Jacket",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP114.png"
+  },
+  {
+    "id": 332,
+    "name": "SplatJack 5000",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP115.png"
+  },
+  {
+    "id": 333,
+    "name": "Hacker Jacket",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP116.png"
+  },
+  {
+    "id": 334,
+    "name": "Cooler Jacket",
+    "brand": "Grizzco",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_COP117.png"
+  },
+  {
+    "id": 335,
+    "name": "Basic Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_FST001.png"
+  },
+  {
+    "id": 336,
+    "name": "Fresh Octo Tee",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_FST002.png"
+  },
+  {
+    "id": 337,
+    "name": "Splatfest Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_HAP001.png"
+  },
+  {
+    "id": 338,
+    "name": "Olive Ski Jacket",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT000.png"
+  },
+  {
+    "id": 339,
+    "name": "Takoroka Nylon Vintage",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT001.png"
+  },
+  {
+    "id": 340,
+    "name": "Berry Ski Jacket",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT002.png"
+  },
+  {
+    "id": 341,
+    "name": "Varsity Jacket",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT003.png"
+  },
+  {
+    "id": 342,
+    "name": "School Jersey",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT004.png"
+  },
+  {
+    "id": 343,
+    "name": "Green Cardigan",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT005.png"
+  },
+  {
+    "id": 344,
+    "name": "Black Inky Rider",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT006.png"
+  },
+  {
+    "id": 345,
+    "name": "White Inky Rider",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT007.png"
+  },
+  {
+    "id": 346,
+    "name": "Retro Gamer Jersey",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT008.png"
+  },
+  {
+    "id": 347,
+    "name": "Orange Cardigan",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT009.png"
+  },
+  {
+    "id": 348,
+    "name": "Forge Inkling Parka",
+    "brand": "Forge",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT010.png"
+  },
+  {
+    "id": 349,
+    "name": "Forge Octarian Jacket",
+    "brand": "Forge",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT011.png"
+  },
+  {
+    "id": 350,
+    "name": "Blue Sailor Suit",
+    "brand": "Forge",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT012.png"
+  },
+  {
+    "id": 351,
+    "name": "White Sailor Suit",
+    "brand": "Forge",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT013.png"
+  },
+  {
+    "id": 352,
+    "name": "Squid Satin Jacket",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT014.png"
+  },
+  {
+    "id": 353,
+    "name": "Zapfish Satin Jacket",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT015.png"
+  },
+  {
+    "id": 354,
+    "name": "Krak-On 528",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT016.png"
+  },
+  {
+    "id": 355,
+    "name": "Chilly Mountain Coat",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT017.png"
+  },
+  {
+    "id": 356,
+    "name": "Takoroka Windcrusher",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT018.png"
+  },
+  {
+    "id": 357,
+    "name": "Matcha Down Jacket",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT019.png"
+  },
+  {
+    "id": 358,
+    "name": "FA-01 Jacket",
+    "brand": "Forge",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT020.png"
+  },
+  {
+    "id": 359,
+    "name": "FA-01 Reversed",
+    "brand": "Forge",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT021.png"
+  },
+  {
+    "id": 360,
+    "name": "Pullover Coat",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT022.png"
+  },
+  {
+    "id": 361,
+    "name": "Kensa Coat",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT023.png"
+  },
+  {
+    "id": 362,
+    "name": "Birded Corduroy Jacket",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT024.png"
+  },
+  {
+    "id": 363,
+    "name": "Deep-Octo Satin Jacket",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT025.png"
+  },
+  {
+    "id": 364,
+    "name": "Zekko Redleaf Coat",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT026.png"
+  },
+  {
+    "id": 365,
+    "name": "Lemon Mountain Coat",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT027.png"
+  },
+  {
+    "id": 366,
+    "name": "Zekko Jade Coat",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT028.png"
+  },
+  {
+    "id": 367,
+    "name": "Light Bomber Jacket",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT029.png"
+  },
+  {
+    "id": 368,
+    "name": "Navy Eminence Jacket",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT033.png"
+  },
+  {
+    "id": 369,
+    "name": "Tumeric Zekko Coat",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT034.png"
+  },
+  {
+    "id": 370,
+    "name": "Custom Painted F-3 ",
+    "brand": "Forge",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT035.png"
+  },
+  {
+    "id": 371,
+    "name": "Dark Bomber Jacket",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT036.png"
+  },
+  {
+    "id": 372,
+    "name": "White Leather F-3",
+    "brand": "Forge",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT038.png"
+  },
+  {
+    "id": 373,
+    "name": "Chili-Pepper Ski Jacket",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT039.png"
+  },
+  {
+    "id": 374,
+    "name": "Whale-Knit Sweater",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT040.png"
+  },
+  {
+    "id": 375,
+    "name": "Rockin' Leather Jacket",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT041.png"
+  },
+  {
+    "id": 376,
+    "name": "Kung-Fu Zip-Up",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT042.png"
+  },
+  {
+    "id": 377,
+    "name": "Panda Kung-Fu Zip-Up",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT043.png"
+  },
+  {
+    "id": 378,
+    "name": "Arctic Monster Parka",
+    "brand": "Barazushi",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT045.png"
+  },
+  {
+    "id": 379,
+    "name": "Barazushi Anorak",
+    "brand": "Barazushi",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT046.png"
+  },
+  {
+    "id": 380,
+    "name": "Patchwork Bomber",
+    "brand": "Emberz",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT047.png"
+  },
+  {
+    "id": 381,
+    "name": "Airflow & Hustle Jacket",
+    "brand": "Forge",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT048.png"
+  },
+  {
+    "id": 382,
+    "name": "Ink-Black Paddle Jack",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT049.png"
+  },
+  {
+    "id": 383,
+    "name": "Orca Bolero",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT050.png"
+  },
+  {
+    "id": 384,
+    "name": "Cream Tundra Fleece",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT051.png"
+  },
+  {
+    "id": 385,
+    "name": "Rugby Fleece",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT052.png"
+  },
+  {
+    "id": 386,
+    "name": "Annaki Anchored Coat",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT053.png"
+  },
+  {
+    "id": 387,
+    "name": "Dusty Field Jacket",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT054.png"
+  },
+  {
+    "id": 388,
+    "name": "Light-Bright Paddle Jack",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT055.png"
+  },
+  {
+    "id": 389,
+    "name": "Penguin Bolero",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT056.png"
+  },
+  {
+    "id": 390,
+    "name": "Barazushi Tuff Duffel",
+    "brand": "Barazushi",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT057.png"
+  },
+  {
+    "id": 391,
+    "name": "Barazushi Peacoat",
+    "brand": "Barazushi",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT058.png"
+  },
+  {
+    "id": 392,
+    "name": "Indigo Boss Haori",
+    "brand": "Emberz",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT059.png"
+  },
+  {
+    "id": 393,
+    "name": "Lime Ski Jacket",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT060.png"
+  },
+  {
+    "id": 394,
+    "name": "Takoroka Nineties Nylon",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT061.png"
+  },
+  {
+    "id": 395,
+    "name": "Barazushi Liner Shell",
+    "brand": "Barazushi",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT062.png"
+  },
+  {
+    "id": 396,
+    "name": "Tenured Turtleneck",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT063.png"
+  },
+  {
+    "id": 397,
+    "name": "Annaki Tuff Duffel",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT064.png"
+  },
+  {
+    "id": 398,
+    "name": "Chompers Varsity Jacket",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_JKT065.png"
+  },
+  {
+    "id": 399,
+    "name": "Hero Jacket Replica",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_MSN000.png"
+  },
+  {
+    "id": 400,
+    "name": "Armor Jacket Replica",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_MSN004.png"
+  },
+  {
+    "id": 401,
+    "name": "Fuzz-Octoling Armor",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_MSN110.png"
+  },
+  {
+    "id": 402,
+    "name": "Survival Suit",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_MSN301.png"
+  },
+  {
+    "id": 403,
+    "name": "Hero Suit Lv1",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_MSN302.png"
+  },
+  {
+    "id": 404,
+    "name": "Hero Suit Lv2",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_MSN303.png"
+  },
+  {
+    "id": 405,
+    "name": "Hero Suit Lv3",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_MSN304.png"
+  },
+  {
+    "id": 406,
+    "name": "Hero Suit ST",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_MSN305.png"
+  },
+  {
+    "id": 407,
+    "name": "Hero Suit Replica",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_MSN306.png"
+  },
+  {
+    "id": 408,
+    "name": "Survival Suit Replica",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_MSN307.png"
+  },
+  {
+    "id": 409,
+    "name": "Legendary Cape",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_MSN310.png"
+  },
+  {
+    "id": 410,
+    "name": "Captain's Poncho Replica",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_MSN311.png"
+  },
+  {
+    "id": 411,
+    "name": "Shrimp-Pink Polo",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PLO000.png"
+  },
+  {
+    "id": 412,
+    "name": "Striped Rugby",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PLO001.png"
+  },
+  {
+    "id": 413,
+    "name": "Tricolor Rugby",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PLO002.png"
+  },
+  {
+    "id": 414,
+    "name": "Sage Polo",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PLO003.png"
+  },
+  {
+    "id": 415,
+    "name": "Black Polo",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PLO004.png"
+  },
+  {
+    "id": 416,
+    "name": "Cycling Shirt",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PLO005.png"
+  },
+  {
+    "id": 417,
+    "name": "Cycle King Jersey",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PLO006.png"
+  },
+  {
+    "id": 418,
+    "name": "Slipstream United",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PLO007.png"
+  },
+  {
+    "id": 419,
+    "name": "FC Albacore",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PLO008.png"
+  },
+  {
+    "id": 420,
+    "name": "Rugby King 10",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PLO009.png"
+  },
+  {
+    "id": 421,
+    "name": "Rugby King 08",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PLO010.png"
+  },
+  {
+    "id": 422,
+    "name": "Camo Zip Hoodie",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK000.png"
+  },
+  {
+    "id": 423,
+    "name": "Green Zip Hoodie",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK001.png"
+  },
+  {
+    "id": 424,
+    "name": "Zekko Hoodie",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK002.png"
+  },
+  {
+    "id": 425,
+    "name": "Shirt with Blue Hoodie",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK004.png"
+  },
+  {
+    "id": 426,
+    "name": "Grape Hoodie",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK005.png"
+  },
+  {
+    "id": 427,
+    "name": "Gray Hoodie",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK006.png"
+  },
+  {
+    "id": 428,
+    "name": "Hothouse Hoodie",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK007.png"
+  },
+  {
+    "id": 429,
+    "name": "Pink Hoodie",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK008.png"
+  },
+  {
+    "id": 430,
+    "name": "Olive Zekko Parka",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK009.png"
+  },
+  {
+    "id": 431,
+    "name": "Black Hoodie",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK010.png"
+  },
+  {
+    "id": 432,
+    "name": "Sudadera Roja",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK012.png"
+  },
+  {
+    "id": 433,
+    "name": "Dustcloud Hoodie",
+    "brand": "Z+F",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK013.png"
+  },
+  {
+    "id": 434,
+    "name": "Sudadera Celeste",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK014.png"
+  },
+  {
+    "id": 435,
+    "name": "Seafoam Hoodie",
+    "brand": "Z+F",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_PRK015.png"
+  },
+  {
+    "id": 436,
+    "name": "Order Suit Replica",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SDODR200.png"
+  },
+  {
+    "id": 437,
+    "name": "Lumberjack Shirt",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT000.png"
+  },
+  {
+    "id": 438,
+    "name": "Rodeo Shirt",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT001.png"
+  },
+  {
+    "id": 439,
+    "name": "Green-Check Shirt",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT002.png"
+  },
+  {
+    "id": 440,
+    "name": "White Shirt",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT003.png"
+  },
+  {
+    "id": 441,
+    "name": "Urchins Jersey",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT004.png"
+  },
+  {
+    "id": 442,
+    "name": "Aloha Shirt",
+    "brand": "Forge",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT005.png"
+  },
+  {
+    "id": 443,
+    "name": "Red-Check Shirt",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT006.png"
+  },
+  {
+    "id": 444,
+    "name": "Baby-Jelly Shirt",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT007.png"
+  },
+  {
+    "id": 445,
+    "name": "Baseball Jersey",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT008.png"
+  },
+  {
+    "id": 446,
+    "name": "Gray Mixed Shirt",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT009.png"
+  },
+  {
+    "id": 447,
+    "name": "Vintage Check Shirt",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT010.png"
+  },
+  {
+    "id": 448,
+    "name": "Round-Collar Shirt",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT011.png"
+  },
+  {
+    "id": 449,
+    "name": "Logo Aloha Shirt",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT012.png"
+  },
+  {
+    "id": 450,
+    "name": "Striped Shirt",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT013.png"
+  },
+  {
+    "id": 451,
+    "name": "Linen Shirt",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT014.png"
+  },
+  {
+    "id": 452,
+    "name": "Shirt & Tie",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT015.png"
+  },
+  {
+    "id": 453,
+    "name": "Hula Punk Shirt",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT017.png"
+  },
+  {
+    "id": 454,
+    "name": "Octobowler Shirt",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT018.png"
+  },
+  {
+    "id": 455,
+    "name": "Inkfall Shirt",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT019.png"
+  },
+  {
+    "id": 456,
+    "name": "Crimson Parashooter",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT020.png"
+  },
+  {
+    "id": 457,
+    "name": "Baby-Jelly Shirt & Tie",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT021.png"
+  },
+  {
+    "id": 458,
+    "name": "Prune Parashooter",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT022.png"
+  },
+  {
+    "id": 459,
+    "name": "Red Hula Punk with Tie",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT023.png"
+  },
+  {
+    "id": 460,
+    "name": "Chili Octo Aloha",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT024.png"
+  },
+  {
+    "id": 461,
+    "name": "Annaki Flannel Hoodie",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT025.png"
+  },
+  {
+    "id": 462,
+    "name": "Ink-Wash Shirt",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT026.png"
+  },
+  {
+    "id": 463,
+    "name": "Dots-on-Dots Shirt",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT027.png"
+  },
+  {
+    "id": 464,
+    "name": "Toni K. Baseball Jersey",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT028.png"
+  },
+  {
+    "id": 465,
+    "name": "Seahorse Shoreliner",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT030.png"
+  },
+  {
+    "id": 466,
+    "name": "Button-Clown Shirt",
+    "brand": "Emberz",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT031.png"
+  },
+  {
+    "id": 467,
+    "name": "Trooper Top",
+    "brand": "Z+F",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT032.png"
+  },
+  {
+    "id": 468,
+    "name": "Business Animal",
+    "brand": "Emberz",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT033.png"
+  },
+  {
+    "id": 469,
+    "name": "Fancyfish Stitch",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT034.png"
+  },
+  {
+    "id": 470,
+    "name": "Dark Splash Shirt",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT035.png"
+  },
+  {
+    "id": 471,
+    "name": "Fashion Splash Shirt",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT036.png"
+  },
+  {
+    "id": 472,
+    "name": "Hype Stripe Button Up",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT037.png"
+  },
+  {
+    "id": 473,
+    "name": "Base White Button Up",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT038.png"
+  },
+  {
+    "id": 474,
+    "name": "Rad Plaid Casual",
+    "brand": "Z+F",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT039.png"
+  },
+  {
+    "id": 475,
+    "name": "Urban Upcycle Top",
+    "brand": "Emberz",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT040.png"
+  },
+  {
+    "id": 476,
+    "name": "Barrelfish Baseball Uni",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT041.png"
+  },
+  {
+    "id": 477,
+    "name": "Coral Bloom Aloha",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT042.png"
+  },
+  {
+    "id": 478,
+    "name": "Kelp Trooper Top",
+    "brand": "Z+F",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SHT043.png"
+  },
+  {
+    "id": 479,
+    "name": "Gray College Sweat",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT000.png"
+  },
+  {
+    "id": 480,
+    "name": "Squidmark Sweat",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT001.png"
+  },
+  {
+    "id": 481,
+    "name": "Retro Sweat",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT002.png"
+  },
+  {
+    "id": 482,
+    "name": "Firefin Navy Sweat",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT003.png"
+  },
+  {
+    "id": 483,
+    "name": "Navy College Sweat",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT004.png"
+  },
+  {
+    "id": 484,
+    "name": "Reel Sweat",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT005.png"
+  },
+  {
+    "id": 485,
+    "name": "Anchor Sweat",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT006.png"
+  },
+  {
+    "id": 486,
+    "name": "Negative Longcuff Sweater",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT007.png"
+  },
+  {
+    "id": 487,
+    "name": "Short Knit Layers",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT008.png"
+  },
+  {
+    "id": 488,
+    "name": "Positive Longcuff Sweater",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT009.png"
+  },
+  {
+    "id": 489,
+    "name": "Annaki Blue Cuff",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT010.png"
+  },
+  {
+    "id": 490,
+    "name": "Annaki Yellow Cuff",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT011.png"
+  },
+  {
+    "id": 491,
+    "name": "Annaki Red Cuff",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT012.png"
+  },
+  {
+    "id": 492,
+    "name": "N-Pacer Sweat",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT013.png"
+  },
+  {
+    "id": 493,
+    "name": "Octarian Retro",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT014.png"
+  },
+  {
+    "id": 494,
+    "name": "Takoroka Jersey",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT015.png"
+  },
+  {
+    "id": 495,
+    "name": "Manatee Swag Sweat",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT016.png"
+  },
+  {
+    "id": 496,
+    "name": "Apex Sweater",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT017.png"
+  },
+  {
+    "id": 497,
+    "name": "Octo Jumper Away",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT018.png"
+  },
+  {
+    "id": 498,
+    "name": "Octo Jumper Home",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT019.png"
+  },
+  {
+    "id": 499,
+    "name": "Moby Knit",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT020.png"
+  },
+  {
+    "id": 500,
+    "name": "Lemon Hoodless",
+    "brand": "Z+F",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT021.png"
+  },
+  {
+    "id": 501,
+    "name": "Motley Hoodless",
+    "brand": "Z+F",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT022.png"
+  },
+  {
+    "id": 502,
+    "name": "Lime Hoodless",
+    "brand": "Z+F",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT023.png"
+  },
+  {
+    "id": 503,
+    "name": "Fuzzly Sweater",
+    "brand": "Emberz",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT024.png"
+  },
+  {
+    "id": 504,
+    "name": "Fringehead Hoodless",
+    "brand": "Emberz",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_SWT025.png"
+  },
+  {
+    "id": 505,
+    "name": "White Striped LS",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL000.png"
+  },
+  {
+    "id": 506,
+    "name": "Black LS",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL001.png"
+  },
+  {
+    "id": 507,
+    "name": "Purple Camo LS",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL002.png"
+  },
+  {
+    "id": 508,
+    "name": "Navy Striped LS",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL003.png"
+  },
+  {
+    "id": 509,
+    "name": "Zekko Baseball LS",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL004.png"
+  },
+  {
+    "id": 510,
+    "name": "Varsity Baseball LS",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL005.png"
+  },
+  {
+    "id": 511,
+    "name": "Black Baseball LS",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL006.png"
+  },
+  {
+    "id": 512,
+    "name": "White Baseball LS",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL007.png"
+  },
+  {
+    "id": 513,
+    "name": "White LS",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL008.png"
+  },
+  {
+    "id": 514,
+    "name": "Green Striped LS",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL009.png"
+  },
+  {
+    "id": 515,
+    "name": "Squidmark LS",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL010.png"
+  },
+  {
+    "id": 516,
+    "name": "Zink LS",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL011.png"
+  },
+  {
+    "id": 517,
+    "name": "Striped Peaks LS",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL012.png"
+  },
+  {
+    "id": 518,
+    "name": "Pink Easy-Stripe Shirt",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL013.png"
+  },
+  {
+    "id": 519,
+    "name": "Inkopolis Squaps Jersey",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL014.png"
+  },
+  {
+    "id": 520,
+    "name": "Annaki Drive Tee ",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL015.png"
+  },
+  {
+    "id": 521,
+    "name": "Lime Easy-Stripe Shirt",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL016.png"
+  },
+  {
+    "id": 522,
+    "name": "Annaki Evolution Tee",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL017.png"
+  },
+  {
+    "id": 523,
+    "name": "Zekko Long Carrot Tee",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL018.png"
+  },
+  {
+    "id": 524,
+    "name": "Zekko Long Radish Tee",
+    "brand": "Zekko",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL019.png"
+  },
+  {
+    "id": 525,
+    "name": "Black Cuttlegear LS",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL020.png"
+  },
+  {
+    "id": 526,
+    "name": "Takoroka Crazy Baseball LS",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL021.png"
+  },
+  {
+    "id": 527,
+    "name": "Red Cuttlegear LS",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL022.png"
+  },
+  {
+    "id": 528,
+    "name": "Khaki 16-Bit FishFry",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL023.png"
+  },
+  {
+    "id": 529,
+    "name": "Blue 16-Bit FishFry",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL024.png"
+  },
+  {
+    "id": 530,
+    "name": "Ink-Black Tangle Top",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL026.png"
+  },
+  {
+    "id": 531,
+    "name": "Deepsea Tangle Top",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL027.png"
+  },
+  {
+    "id": 532,
+    "name": "Sharkfin Raglan",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TEL028.png"
+  },
+  {
+    "id": 533,
+    "name": "White Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES000.png"
+  },
+  {
+    "id": 534,
+    "name": "Black Squideye",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES001.png"
+  },
+  {
+    "id": 535,
+    "name": "Sky-Blue Squideye",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES003.png"
+  },
+  {
+    "id": 536,
+    "name": "Rockenberg White",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES004.png"
+  },
+  {
+    "id": 537,
+    "name": "Rockenberg Black",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES005.png"
+  },
+  {
+    "id": 538,
+    "name": "Black Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES006.png"
+  },
+  {
+    "id": 539,
+    "name": "Sunny-Day Tee",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES007.png"
+  },
+  {
+    "id": 540,
+    "name": "Rainy-Day Tee",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES008.png"
+  },
+  {
+    "id": 541,
+    "name": "Reggae Tee",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES009.png"
+  },
+  {
+    "id": 542,
+    "name": "Fugu Tee",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES010.png"
+  },
+  {
+    "id": 543,
+    "name": "Mint Tee",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES011.png"
+  },
+  {
+    "id": 544,
+    "name": "Grape Tee",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES012.png"
+  },
+  {
+    "id": 545,
+    "name": "Red Vector Tee",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES013.png"
+  },
+  {
+    "id": 546,
+    "name": "Gray Vector Tee",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES014.png"
+  },
+  {
+    "id": 547,
+    "name": "Blue Peaks Tee",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES015.png"
+  },
+  {
+    "id": 548,
+    "name": "Ivory Peaks Tee",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES016.png"
+  },
+  {
+    "id": 549,
+    "name": "Squid-Stitch Tee",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES017.png"
+  },
+  {
+    "id": 550,
+    "name": "Pirate-Stripe Tee",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES018.png"
+  },
+  {
+    "id": 551,
+    "name": "Sailor-Stripe Tee",
+    "brand": "Splash Mob",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES019.png"
+  },
+  {
+    "id": 552,
+    "name": "White 8-Bit FishFry",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES020.png"
+  },
+  {
+    "id": 553,
+    "name": "Black 8-Bit FishFry",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES021.png"
+  },
+  {
+    "id": 554,
+    "name": "White Anchor Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES022.png"
+  },
+  {
+    "id": 555,
+    "name": "Black Anchor Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES023.png"
+  },
+  {
+    "id": 556,
+    "name": "Carnivore Tee",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES026.png"
+  },
+  {
+    "id": 557,
+    "name": "Pearl Tee",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES027.png"
+  },
+  {
+    "id": 558,
+    "name": "Octo Tee",
+    "brand": "Cuttlegear",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES028.png"
+  },
+  {
+    "id": 559,
+    "name": "Herbivore Tee",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES029.png"
+  },
+  {
+    "id": 560,
+    "name": "Black V-Neck Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES030.png"
+  },
+  {
+    "id": 561,
+    "name": "White Deca Logo Tee",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES031.png"
+  },
+  {
+    "id": 562,
+    "name": "Half-Sleeve Sweater",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES032.png"
+  },
+  {
+    "id": 563,
+    "name": "King Jersey",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES033.png"
+  },
+  {
+    "id": 564,
+    "name": "Gray 8-Bit FishFry",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES034.png"
+  },
+  {
+    "id": 565,
+    "name": "White V-Neck Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES035.png"
+  },
+  {
+    "id": 566,
+    "name": "White Urchin Rock Tee",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES036.png"
+  },
+  {
+    "id": 567,
+    "name": "Black Urchin Rock Tee",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES037.png"
+  },
+  {
+    "id": 568,
+    "name": "Wet Floor Band Tee",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES038.png"
+  },
+  {
+    "id": 569,
+    "name": "Squid Squad Band Tee",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES039.png"
+  },
+  {
+    "id": 570,
+    "name": "Navy Deca Logo Tee",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES040.png"
+  },
+  {
+    "id": 571,
+    "name": "Mister Shrug Tee",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES041.png"
+  },
+  {
+    "id": 572,
+    "name": "Chirpy Chips Band Tee",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES042.png"
+  },
+  {
+    "id": 573,
+    "name": "Hightide Era Band Tee",
+    "brand": "Rockenberg",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES043.png"
+  },
+  {
+    "id": 574,
+    "name": "ω-3 Tee",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES046.png"
+  },
+  {
+    "id": 575,
+    "name": "Annaki Polpo-Pic Tank",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES047.png"
+  },
+  {
+    "id": 576,
+    "name": "Firewave Tee",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES048.png"
+  },
+  {
+    "id": 577,
+    "name": "Takoroka Galactic Tie Dye",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES049.png"
+  },
+  {
+    "id": 578,
+    "name": "Takoroka Rainbow Tie Dye",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES050.png"
+  },
+  {
+    "id": 579,
+    "name": "Missus Shrug Tee",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES051.png"
+  },
+  {
+    "id": 580,
+    "name": "League Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES052.png"
+  },
+  {
+    "id": 581,
+    "name": "Friend Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES053.png"
+  },
+  {
+    "id": 582,
+    "name": "Tentatek Slogan Tee",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES054.png"
+  },
+  {
+    "id": 583,
+    "name": "Icewave Tee",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES055.png"
+  },
+  {
+    "id": 584,
+    "name": "Octoking HK Jersey",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES056.png"
+  },
+  {
+    "id": 585,
+    "name": "Dakro Nana Tee",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES057.png"
+  },
+  {
+    "id": 586,
+    "name": "Dakro Golden Tee",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES058.png"
+  },
+  {
+    "id": 587,
+    "name": "Black Velour Octoking Tee ",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES059.png"
+  },
+  {
+    "id": 588,
+    "name": "Green Velour Octoking Tee",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES060.png"
+  },
+  {
+    "id": 589,
+    "name": "Tri-Shred Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES063.png"
+  },
+  {
+    "id": 590,
+    "name": "Tentatek Tandem",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES064.png"
+  },
+  {
+    "id": 591,
+    "name": "Annaki Choker Tee",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES066.png"
+  },
+  {
+    "id": 592,
+    "name": "Annaki Bracelet Tee",
+    "brand": "Annaki",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES067.png"
+  },
+  {
+    "id": 593,
+    "name": "White Retro Tee",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES068.png"
+  },
+  {
+    "id": 594,
+    "name": "Blue Retro Tee",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES069.png"
+  },
+  {
+    "id": 595,
+    "name": "Tan Retro Tee",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES070.png"
+  },
+  {
+    "id": 596,
+    "name": "Barazushi Wrap",
+    "brand": "Barazushi",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES071.png"
+  },
+  {
+    "id": 597,
+    "name": "Barazushi Rice Tee",
+    "brand": "Barazushi",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES072.png"
+  },
+  {
+    "id": 598,
+    "name": "Barazushi Black Tee",
+    "brand": "Barazushi",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES073.png"
+  },
+  {
+    "id": 599,
+    "name": "Barazushi Sakura Tee",
+    "brand": "Barazushi",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES074.png"
+  },
+  {
+    "id": 600,
+    "name": "Octosquid Tandem Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES075.png"
+  },
+  {
+    "id": 601,
+    "name": "Tri-Squid Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES076.png"
+  },
+  {
+    "id": 602,
+    "name": "Tri-Octo Tee",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES077.png"
+  },
+  {
+    "id": 603,
+    "name": "Takoroka \\m/ Crab",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES078.png"
+  },
+  {
+    "id": 604,
+    "name": "Takoroka \\m/ Alien",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES079.png"
+  },
+  {
+    "id": 605,
+    "name": "Takoroka Tandem",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES081.png"
+  },
+  {
+    "id": 606,
+    "name": "Pineapple Ringer",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES082.png"
+  },
+  {
+    "id": 607,
+    "name": "Apple Ringer",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES083.png"
+  },
+  {
+    "id": 608,
+    "name": "Vaporwave Tee",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES084.png"
+  },
+  {
+    "id": 609,
+    "name": "Duskwave Tee",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES085.png"
+  },
+  {
+    "id": 610,
+    "name": "Lyco-P Streetstyle Tee",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES086.png"
+  },
+  {
+    "id": 611,
+    "name": "Slate Streetstyle Tee",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES087.png"
+  },
+  {
+    "id": 612,
+    "name": "Eelzebub Tee",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES088.png"
+  },
+  {
+    "id": 613,
+    "name": "Zontal Ztripe Tee",
+    "brand": "Skalop",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES089.png"
+  },
+  {
+    "id": 614,
+    "name": "Lime BlobMob Tee",
+    "brand": "Emberz",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES090.png"
+  },
+  {
+    "id": 615,
+    "name": "Berry BlobMob Tee",
+    "brand": "Emberz",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES091.png"
+  },
+  {
+    "id": 616,
+    "name": "White Z+F Tee",
+    "brand": "Z+F",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES092.png"
+  },
+  {
+    "id": 617,
+    "name": "Navy Z+F Tee",
+    "brand": "Z+F",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES093.png"
+  },
+  {
+    "id": 618,
+    "name": "Plum Barazushi Wrap",
+    "brand": "Barazushi",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES094.png"
+  },
+  {
+    "id": 619,
+    "name": "King Mesh Tee",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TES095.png"
+  },
+  {
+    "id": 620,
+    "name": "White Layered LS",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TLY000.png"
+  },
+  {
+    "id": 621,
+    "name": "Yellow Layered LS",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TLY001.png"
+  },
+  {
+    "id": 622,
+    "name": "Camo Layered LS",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TLY002.png"
+  },
+  {
+    "id": 623,
+    "name": "Black Layered LS",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TLY003.png"
+  },
+  {
+    "id": 624,
+    "name": "Zink Layered LS",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TLY004.png"
+  },
+  {
+    "id": 625,
+    "name": "Layered Anchor LS",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TLY005.png"
+  },
+  {
+    "id": 626,
+    "name": "Choco Layered LS",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TLY006.png"
+  },
+  {
+    "id": 627,
+    "name": "Part-Time Pirate",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TLY007.png"
+  },
+  {
+    "id": 628,
+    "name": "Layered Vector LS",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TLY008.png"
+  },
+  {
+    "id": 629,
+    "name": "Green Tee",
+    "brand": "Forge",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TLY009.png"
+  },
+  {
+    "id": 630,
+    "name": "Red Tentatek Tee",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TLY010.png"
+  },
+  {
+    "id": 631,
+    "name": "Blue Tentatek Tee",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TLY011.png"
+  },
+  {
+    "id": 632,
+    "name": "Squid Yellow Layered LS",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TLY013.png"
+  },
+  {
+    "id": 633,
+    "name": "B-ball Jersey (Home)",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TNK000.png"
+  },
+  {
+    "id": 634,
+    "name": "B-ball Jersey (Away)",
+    "brand": "Zink",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TNK001.png"
+  },
+  {
+    "id": 635,
+    "name": "White King Tank",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TNK003.png"
+  },
+  {
+    "id": 636,
+    "name": "Slash King Tank",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TNK004.png"
+  },
+  {
+    "id": 637,
+    "name": "Navy King Tank",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TNK005.png"
+  },
+  {
+    "id": 638,
+    "name": "Lob-Stars Jersey",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TNK006.png"
+  },
+  {
+    "id": 639,
+    "name": "Umibozu Road Jersey",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TNK007.png"
+  },
+  {
+    "id": 640,
+    "name": "Umibozu Home Jersey",
+    "brand": "Takoroka",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TNK008.png"
+  },
+  {
+    "id": 641,
+    "name": "Crispy Crustume",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TRG000.png"
+  },
+  {
+    "id": 642,
+    "name": "Frivolous Paw Suit",
+    "brand": "SquidForce",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_TRG001.png"
+  },
+  {
+    "id": 643,
+    "name": "Mountain Vest",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST000.png"
+  },
+  {
+    "id": 644,
+    "name": "Forest Vest",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST001.png"
+  },
+  {
+    "id": 645,
+    "name": "Dark Urban Vest",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST002.png"
+  },
+  {
+    "id": 646,
+    "name": "Yellow Urban Vest",
+    "brand": "Firefin",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST003.png"
+  },
+  {
+    "id": 647,
+    "name": "Squid-Pattern Waistcoat",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST004.png"
+  },
+  {
+    "id": 648,
+    "name": "Squidstar Waistcoat",
+    "brand": "Krak-On",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST005.png"
+  },
+  {
+    "id": 649,
+    "name": "Fishing Vest",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST007.png"
+  },
+  {
+    "id": 650,
+    "name": "Front-Zip Vest",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST008.png"
+  },
+  {
+    "id": 651,
+    "name": "Silver Tentatek Vest",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST009.png"
+  },
+  {
+    "id": 652,
+    "name": "Khaki Ranger Vest",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST010.png"
+  },
+  {
+    "id": 653,
+    "name": "Red Battlecrab Shell",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST011.png"
+  },
+  {
+    "id": 654,
+    "name": "Lime Battlecrab Shell",
+    "brand": "Enperry",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST012.png"
+  },
+  {
+    "id": 655,
+    "name": "Distressed Vest",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST013.png"
+  },
+  {
+    "id": 656,
+    "name": "Black Ranger Vest",
+    "brand": "Inkline",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST014.png"
+  },
+  {
+    "id": 657,
+    "name": "Dark Distressed Vest",
+    "brand": "Toni Kensa",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST015.png"
+  },
+  {
+    "id": 658,
+    "name": "Tentatek Slipstream Vest",
+    "brand": "Tentatek",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST016.png"
+  },
+  {
+    "id": 659,
+    "name": "Teal Body Warmer",
+    "brand": "Emberz",
+    "gearType": "clothes",
+    "imageUrl": "assets/images/gear/Clt_VST017.png"
+  },
+  {
+    "id": 660,
+    "name": "School Shoes + Hi Socks",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB000.png"
+  },
+  {
+    "id": 661,
+    "name": "Samurai Shoes",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB001.png"
+  },
+  {
+    "id": 662,
+    "name": "Power Boots",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB002.png"
+  },
+  {
+    "id": 663,
+    "name": "Baggy-Sock Fringe Loafs",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB003.png"
+  },
+  {
+    "id": 664,
+    "name": "Squinja Boots",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB004.png"
+  },
+  {
+    "id": 665,
+    "name": "Power Boots Mk I",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB005.png"
+  },
+  {
+    "id": 666,
+    "name": "Pearlescent Kicks",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB006.png"
+  },
+  {
+    "id": 667,
+    "name": "Marinated Slip-Ons",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB007.png"
+  },
+  {
+    "id": 668,
+    "name": "Enchanted Boots",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB008.png"
+  },
+  {
+    "id": 669,
+    "name": "Steel Greaves",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB009.png"
+  },
+  {
+    "id": 670,
+    "name": "Fresh Fish Feet",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB010.png"
+  },
+  {
+    "id": 671,
+    "name": "Knotty Bois",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB011.png"
+  },
+  {
+    "id": 672,
+    "name": "Kick Dampeners",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB012.png"
+  },
+  {
+    "id": 673,
+    "name": "Chaos Kicks",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB013.png"
+  },
+  {
+    "id": 674,
+    "name": "Base School Shoes",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB014.png"
+  },
+  {
+    "id": 675,
+    "name": "Base Fringed Loafers",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB015.png"
+  },
+  {
+    "id": 676,
+    "name": "Faux Sharkskin Platfins",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB018.png"
+  },
+  {
+    "id": 677,
+    "name": "Eel Heel Socks",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB019.png"
+  },
+  {
+    "id": 678,
+    "name": "Big Muds",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB020.png"
+  },
+  {
+    "id": 679,
+    "name": "World Tour Boots",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB021.png"
+  },
+  {
+    "id": 680,
+    "name": "World Tour Heels",
+    "brand": "amiibo",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_AMB022.png"
+  },
+  {
+    "id": 681,
+    "name": "Moto Boots",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT000.png"
+  },
+  {
+    "id": 682,
+    "name": "Tan Work Boots",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT001.png"
+  },
+  {
+    "id": 683,
+    "name": "Red Work Boots",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT002.png"
+  },
+  {
+    "id": 684,
+    "name": "Blue Moto Boots",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT003.png"
+  },
+  {
+    "id": 685,
+    "name": "Green Rain Boots",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT004.png"
+  },
+  {
+    "id": 686,
+    "name": "Acerola Rain Boots",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT005.png"
+  },
+  {
+    "id": 687,
+    "name": "Punk Whites",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT006.png"
+  },
+  {
+    "id": 688,
+    "name": "Punk Cherries",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT007.png"
+  },
+  {
+    "id": 689,
+    "name": "Punk Yellows",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT008.png"
+  },
+  {
+    "id": 690,
+    "name": "Bubble Rain Boots",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT009.png"
+  },
+  {
+    "id": 691,
+    "name": "Snowy Down Boots",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT010.png"
+  },
+  {
+    "id": 692,
+    "name": "Icy Down Boots",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT011.png"
+  },
+  {
+    "id": 693,
+    "name": "Hunting Boots",
+    "brand": "Splash Mob",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT012.png"
+  },
+  {
+    "id": 694,
+    "name": "Punk Nights",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT013.png"
+  },
+  {
+    "id": 695,
+    "name": "Deepsea Leather Boots",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT014.png"
+  },
+  {
+    "id": 696,
+    "name": "Annaki Arachno Boots",
+    "brand": "Annaki",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT016.png"
+  },
+  {
+    "id": 697,
+    "name": "New-Leaf Leather Boots",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT017.png"
+  },
+  {
+    "id": 698,
+    "name": "Tea-Green Hunting Boots",
+    "brand": "Splash Mob",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT018.png"
+  },
+  {
+    "id": 699,
+    "name": "Blu-Shift Moto Boots",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT019.png"
+  },
+  {
+    "id": 700,
+    "name": "Skipjack Work Boots",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT020.png"
+  },
+  {
+    "id": 701,
+    "name": "Arctic Duck Boots",
+    "brand": "Barazushi",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT021.png"
+  },
+  {
+    "id": 702,
+    "name": "Field Duck Boots",
+    "brand": "Barazushi",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT022.png"
+  },
+  {
+    "id": 703,
+    "name": "Red Hammertreads",
+    "brand": "Annaki",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT023.png"
+  },
+  {
+    "id": 704,
+    "name": "Dappled Hammertreads",
+    "brand": "Annaki",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT024.png"
+  },
+  {
+    "id": 705,
+    "name": "Punk Pinks",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT025.png"
+  },
+  {
+    "id": 706,
+    "name": "Fuzzy Boots",
+    "brand": "Barazushi",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT026.png"
+  },
+  {
+    "id": 707,
+    "name": "Transom Note Boots",
+    "brand": "Z+F",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT027.png"
+  },
+  {
+    "id": 708,
+    "name": "Red-Shift Moto Boots",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT028.png"
+  },
+  {
+    "id": 709,
+    "name": "Spiked Duck Boots",
+    "brand": "Barazushi",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT029.png"
+  },
+  {
+    "id": 710,
+    "name": "Buckle-Down Boots",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_BOT030.png"
+  },
+  {
+    "id": 711,
+    "name": "Blueberry Casuals",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_CFS000.png"
+  },
+  {
+    "id": 712,
+    "name": "Plum Casuals",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_CFS001.png"
+  },
+  {
+    "id": 713,
+    "name": "Angry Rain Boots",
+    "brand": "Grizzco",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_COP101.png"
+  },
+  {
+    "id": 714,
+    "name": "Nonslip Senseis",
+    "brand": "Grizzco",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_COP102.png"
+  },
+  {
+    "id": 715,
+    "name": "Octoleet Boots",
+    "brand": "Grizzco",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_COP103.png"
+  },
+  {
+    "id": 716,
+    "name": "Friendship Bracelet",
+    "brand": "Grizzco",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_COP104.png"
+  },
+  {
+    "id": 717,
+    "name": "Flipper Floppers",
+    "brand": "Grizzco",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_COP105.png"
+  },
+  {
+    "id": 718,
+    "name": "Wooden Sandals",
+    "brand": "Grizzco",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_COP106.png"
+  },
+  {
+    "id": 719,
+    "name": "Trevally Derby Rollers",
+    "brand": "Grizzco",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_COP107.png"
+  },
+  {
+    "id": 720,
+    "name": "Brinestone Boots",
+    "brand": "Grizzco",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_COP108.png"
+  },
+  {
+    "id": 721,
+    "name": "Knockout Boots",
+    "brand": "Grizzco",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_COP109.png"
+  },
+  {
+    "id": 722,
+    "name": "Cream Basics",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_FST000.png"
+  },
+  {
+    "id": 723,
+    "name": "Pearl-Scout Lace-Ups",
+    "brand": "Zekko",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP000.png"
+  },
+  {
+    "id": 724,
+    "name": "Pearlescent Squidkid IV",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP001.png"
+  },
+  {
+    "id": 725,
+    "name": "Pearl Punk Crowns",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP002.png"
+  },
+  {
+    "id": 726,
+    "name": "New-Day Arrows",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP003.png"
+  },
+  {
+    "id": 727,
+    "name": "Marination Lace-Ups",
+    "brand": "Zekko",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP004.png"
+  },
+  {
+    "id": 728,
+    "name": "Rina Squidkid IV",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP005.png"
+  },
+  {
+    "id": 729,
+    "name": "Trooper Power Stripes",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP006.png"
+  },
+  {
+    "id": 730,
+    "name": "Midnight Slip-Ons",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP007.png"
+  },
+  {
+    "id": 731,
+    "name": "Shivery Squidkid III",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP008.png"
+  },
+  {
+    "id": 732,
+    "name": "Fried Squidkid III",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP009.png"
+  },
+  {
+    "id": 733,
+    "name": "Big Squidkid III",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP010.png"
+  },
+  {
+    "id": 734,
+    "name": "Chained DC Toejamz",
+    "brand": "Z+F",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP011.png"
+  },
+  {
+    "id": 735,
+    "name": "Jeweled DC Toejamz",
+    "brand": "Z+F",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP012.png"
+  },
+  {
+    "id": 736,
+    "name": "Swirled DC Toejamz",
+    "brand": "Z+F",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP013.png"
+  },
+  {
+    "id": 737,
+    "name": "Trifecta Duck Boots",
+    "brand": "Barazushi",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP014.png"
+  },
+  {
+    "id": 738,
+    "name": "Trifecta Hi-Tops",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP015.png"
+  },
+  {
+    "id": 739,
+    "name": "Trifecta Sandals",
+    "brand": "Z+F",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_HAP016.png"
+  },
+  {
+    "id": 740,
+    "name": "White Kicks",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS000.png"
+  },
+  {
+    "id": 741,
+    "name": "Cherry Kicks",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS001.png"
+  },
+  {
+    "id": 742,
+    "name": "Turquoise Kicks",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS002.png"
+  },
+  {
+    "id": 743,
+    "name": "Squink Wingtips",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS003.png"
+  },
+  {
+    "id": 744,
+    "name": "Roasted Brogues",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS004.png"
+  },
+  {
+    "id": 745,
+    "name": "Kid Clams",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS005.png"
+  },
+  {
+    "id": 746,
+    "name": "Smoky Wingtips",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS006.png"
+  },
+  {
+    "id": 747,
+    "name": "Navy Red-Soled Wingtips",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS007.png"
+  },
+  {
+    "id": 748,
+    "name": "Gray Yellow-Soled Wingtips",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS008.png"
+  },
+  {
+    "id": 749,
+    "name": "Inky Kid Clams",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS009.png"
+  },
+  {
+    "id": 750,
+    "name": "Annaki Habaneros",
+    "brand": "Annaki",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS010.png"
+  },
+  {
+    "id": 751,
+    "name": "Annaki Tigers",
+    "brand": "Annaki",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS011.png"
+  },
+  {
+    "id": 752,
+    "name": "Desert Chukkas",
+    "brand": "Barazushi",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS013.png"
+  },
+  {
+    "id": 753,
+    "name": "Dark-Roast Boaties",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS014.png"
+  },
+  {
+    "id": 754,
+    "name": "Tricolor Boaties",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS015.png"
+  },
+  {
+    "id": 755,
+    "name": "Bit 'n' Bridle Loafers",
+    "brand": "Annaki",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_LTS016.png"
+  },
+  {
+    "id": 756,
+    "name": "Hero Runner Replicas",
+    "brand": "Cuttlegear",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_MSN000.png"
+  },
+  {
+    "id": 757,
+    "name": "Armor Boot Replicas",
+    "brand": "Cuttlegear",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_MSN004.png"
+  },
+  {
+    "id": 758,
+    "name": "Fuzz-Octoling Boots",
+    "brand": "Cuttlegear",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_MSN110.png"
+  },
+  {
+    "id": 759,
+    "name": "Survival Foot",
+    "brand": "Cuttlegear",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_MSN301.png"
+  },
+  {
+    "id": 760,
+    "name": "Hero Boots Lv1",
+    "brand": "Cuttlegear",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_MSN302.png"
+  },
+  {
+    "id": 761,
+    "name": "Hero Boots Lv2",
+    "brand": "Cuttlegear",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_MSN303.png"
+  },
+  {
+    "id": 762,
+    "name": "Hero Boots Lv3",
+    "brand": "Cuttlegear",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_MSN304.png"
+  },
+  {
+    "id": 763,
+    "name": "Hero Boots ST",
+    "brand": "Cuttlegear",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_MSN305.png"
+  },
+  {
+    "id": 764,
+    "name": "Hero Boot Replicas",
+    "brand": "Cuttlegear",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_MSN306.png"
+  },
+  {
+    "id": 765,
+    "name": "Survival Footwrap Replicas",
+    "brand": "Cuttlegear",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_MSN307.png"
+  },
+  {
+    "id": 766,
+    "name": "Legendary Sandals",
+    "brand": "Cuttlegear",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_MSN310.png"
+  },
+  {
+    "id": 767,
+    "name": "Captain's Flip-Flop Replicas",
+    "brand": "Cuttlegear",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_MSN311.png"
+  },
+  {
+    "id": 768,
+    "name": "Oyster Clogs",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL000.png"
+  },
+  {
+    "id": 769,
+    "name": "Choco Clogs",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL001.png"
+  },
+  {
+    "id": 770,
+    "name": "Neon Delta Straps",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL003.png"
+  },
+  {
+    "id": 771,
+    "name": "Black Flip-Flops",
+    "brand": "Zekko",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL004.png"
+  },
+  {
+    "id": 772,
+    "name": "Snow Delta Straps",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL005.png"
+  },
+  {
+    "id": 773,
+    "name": "Luminous Delta Straps",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL006.png"
+  },
+  {
+    "id": 774,
+    "name": "Red FishFry Sandals",
+    "brand": "Firefin",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL007.png"
+  },
+  {
+    "id": 775,
+    "name": "Yellow FishFry Sandals",
+    "brand": "Firefin",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL008.png"
+  },
+  {
+    "id": 776,
+    "name": "Musselforge Flip-Flops",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL009.png"
+  },
+  {
+    "id": 777,
+    "name": "Cuttlefish Sandies",
+    "brand": "Rockenberg",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL010.png"
+  },
+  {
+    "id": 778,
+    "name": "Arrow Toesies Blu",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL011.png"
+  },
+  {
+    "id": 779,
+    "name": "BlobMob Flip-Flops",
+    "brand": "Emberz",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL012.png"
+  },
+  {
+    "id": 780,
+    "name": "Orange Dadfoot Sandals",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL013.png"
+  },
+  {
+    "id": 781,
+    "name": "Arrow Toesies Purp",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL014.png"
+  },
+  {
+    "id": 782,
+    "name": "Annaki Strappy Sandals",
+    "brand": "Annaki",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL015.png"
+  },
+  {
+    "id": 783,
+    "name": "Squid Bone Unslips",
+    "brand": "Emberz",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL016.png"
+  },
+  {
+    "id": 784,
+    "name": "Pink Dadfoot Sandals",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL017.png"
+  },
+  {
+    "id": 785,
+    "name": "Cyan Dadfoot Sandals",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL018.png"
+  },
+  {
+    "id": 786,
+    "name": "Navy Toejamz",
+    "brand": "Z+F",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL019.png"
+  },
+  {
+    "id": 787,
+    "name": "Red Toejamz",
+    "brand": "Z+F",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL020.png"
+  },
+  {
+    "id": 788,
+    "name": "Yellow Toejamz",
+    "brand": "Z+F",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL021.png"
+  },
+  {
+    "id": 789,
+    "name": "Green Toejamz",
+    "brand": "Z+F",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL022.png"
+  },
+  {
+    "id": 790,
+    "name": "Skirmish Sabots",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL023.png"
+  },
+  {
+    "id": 791,
+    "name": "Fishbone Sabots",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDL024.png"
+  },
+  {
+    "id": 792,
+    "name": "Order Boot Replicas",
+    "brand": "Cuttlegear",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SDODR200.png"
+  },
+  {
+    "id": 793,
+    "name": "Red Hi-Horses",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI000.png"
+  },
+  {
+    "id": 794,
+    "name": "Zombie Hi-Horses",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI001.png"
+  },
+  {
+    "id": 795,
+    "name": "Cream Hi-Tops",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI002.png"
+  },
+  {
+    "id": 796,
+    "name": "Purple Hi-Horses",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI003.png"
+  },
+  {
+    "id": 797,
+    "name": "Hunter Hi-Tops",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI004.png"
+  },
+  {
+    "id": 798,
+    "name": "Red Hi-Tops",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI005.png"
+  },
+  {
+    "id": 799,
+    "name": "Gold Hi-Horses",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI006.png"
+  },
+  {
+    "id": 800,
+    "name": "Shark Moccasins",
+    "brand": "Splash Mob",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI008.png"
+  },
+  {
+    "id": 801,
+    "name": "Mawcasins",
+    "brand": "Splash Mob",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI009.png"
+  },
+  {
+    "id": 802,
+    "name": "Chocolate Dakroniks",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI010.png"
+  },
+  {
+    "id": 803,
+    "name": "Cyan Dakroniks",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI011.png"
+  },
+  {
+    "id": 804,
+    "name": "Black Dakroniks",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI012.png"
+  },
+  {
+    "id": 805,
+    "name": "Piranha Moccasins",
+    "brand": "Splash Mob",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI013.png"
+  },
+  {
+    "id": 806,
+    "name": "White Norimaki 750s",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI014.png"
+  },
+  {
+    "id": 807,
+    "name": "Black Norimaki 750s",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI015.png"
+  },
+  {
+    "id": 808,
+    "name": "Sunset Orca Hi-Tops",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI016.png"
+  },
+  {
+    "id": 809,
+    "name": "Red & Black Squidkid IV",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI017.png"
+  },
+  {
+    "id": 810,
+    "name": "Blue & Black Squidkid IV",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI018.png"
+  },
+  {
+    "id": 811,
+    "name": "Gray Sea-Slug Hi-Tops",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI019.png"
+  },
+  {
+    "id": 812,
+    "name": "Orca Hi-Tops",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI020.png"
+  },
+  {
+    "id": 813,
+    "name": "Navy Enperrials",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI022.png"
+  },
+  {
+    "id": 814,
+    "name": "Amber Sea Slug Hi-Tops",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI023.png"
+  },
+  {
+    "id": 815,
+    "name": "Yellow Iromaki 750s",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI024.png"
+  },
+  {
+    "id": 816,
+    "name": "Red & White Squidkid V",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI025.png"
+  },
+  {
+    "id": 817,
+    "name": "Honey & Orange Squidkid V",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI026.png"
+  },
+  {
+    "id": 818,
+    "name": "Sun & Shade Squidkid IV",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI027.png"
+  },
+  {
+    "id": 819,
+    "name": "Orca Woven Hi-Tops",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI028.png"
+  },
+  {
+    "id": 820,
+    "name": "Green Iromaki 750s",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI029.png"
+  },
+  {
+    "id": 821,
+    "name": "Purple Iromaki 750s",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI030.png"
+  },
+  {
+    "id": 822,
+    "name": "Red Iromaki 750s",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI031.png"
+  },
+  {
+    "id": 823,
+    "name": "Blue Iromaki 750s",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI032.png"
+  },
+  {
+    "id": 824,
+    "name": "Orange Iromaki 750s",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI033.png"
+  },
+  {
+    "id": 825,
+    "name": "Red Power Stripes",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI034.png"
+  },
+  {
+    "id": 826,
+    "name": "Blue Power Stripes",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI035.png"
+  },
+  {
+    "id": 827,
+    "name": "Toni Kensa Black Hi-Tops",
+    "brand": "Toni Kensa",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI036.png"
+  },
+  {
+    "id": 828,
+    "name": "Sesame Salt 270s",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI037.png"
+  },
+  {
+    "id": 829,
+    "name": "Black & Blue Squidkid V",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI038.png"
+  },
+  {
+    "id": 830,
+    "name": "Orca Passion Hi-Tops",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI039.png"
+  },
+  {
+    "id": 831,
+    "name": "Truffle Canvas Hi-Tops",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI040.png"
+  },
+  {
+    "id": 832,
+    "name": "Force ReBoots",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI042.png"
+  },
+  {
+    "id": 833,
+    "name": "Tenya OctoReds",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI043.png"
+  },
+  {
+    "id": 834,
+    "name": "Tenya OctoPurps",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI044.png"
+  },
+  {
+    "id": 835,
+    "name": "Pearl 01STERs",
+    "brand": "Toni Kensa",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI045.png"
+  },
+  {
+    "id": 836,
+    "name": "Zebrafish Hi-Tops",
+    "brand": "Toni Kensa",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI046.png"
+  },
+  {
+    "id": 837,
+    "name": "Dustcloud Hi-Tops",
+    "brand": "Z+F",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI047.png"
+  },
+  {
+    "id": 838,
+    "name": "Seafoam Hi-Tops",
+    "brand": "Z+F",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI048.png"
+  },
+  {
+    "id": 839,
+    "name": "White Lo-Vert Hi-Tops",
+    "brand": "Barazushi",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI049.png"
+  },
+  {
+    "id": 840,
+    "name": "Blue & Black Squidkid III",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI050.png"
+  },
+  {
+    "id": 841,
+    "name": "Red & White Squidkid III",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI051.png"
+  },
+  {
+    "id": 842,
+    "name": "Onyx 01STERs",
+    "brand": "Toni Kensa",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI052.png"
+  },
+  {
+    "id": 843,
+    "name": "Crab-Trap Squidkid III",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHI053.png"
+  },
+  {
+    "id": 844,
+    "name": "Pink Trainers",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT000.png"
+  },
+  {
+    "id": 845,
+    "name": "Orange Arrows",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT001.png"
+  },
+  {
+    "id": 846,
+    "name": "Neon Sea Slugs",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT002.png"
+  },
+  {
+    "id": 847,
+    "name": "White Arrows",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT003.png"
+  },
+  {
+    "id": 848,
+    "name": "Cyan Trainers",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT004.png"
+  },
+  {
+    "id": 849,
+    "name": "Blue Sea Slugs",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT005.png"
+  },
+  {
+    "id": 850,
+    "name": "Red Sea Slugs",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT006.png"
+  },
+  {
+    "id": 851,
+    "name": "Purple Sea Slugs",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT007.png"
+  },
+  {
+    "id": 852,
+    "name": "Crazy Arrows",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT008.png"
+  },
+  {
+    "id": 853,
+    "name": "Black Trainers",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT009.png"
+  },
+  {
+    "id": 854,
+    "name": "Violet Trainers",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT010.png"
+  },
+  {
+    "id": 855,
+    "name": "Canary Trainers",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT011.png"
+  },
+  {
+    "id": 856,
+    "name": "Yellow-Mesh Sneakers",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT012.png"
+  },
+  {
+    "id": 857,
+    "name": "Arrow Pull-Ons",
+    "brand": "Toni Kensa",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT013.png"
+  },
+  {
+    "id": 858,
+    "name": "Orange-Mesh Sneakers",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT014.png"
+  },
+  {
+    "id": 859,
+    "name": "N-Pacer CaO",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT015.png"
+  },
+  {
+    "id": 860,
+    "name": "N-Pacer Ag",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT016.png"
+  },
+  {
+    "id": 861,
+    "name": "N-Pacer Au",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT017.png"
+  },
+  {
+    "id": 862,
+    "name": "Sea Slug Volt 95s",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT018.png"
+  },
+  {
+    "id": 863,
+    "name": "Athletic Arrows",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT019.png"
+  },
+  {
+    "id": 864,
+    "name": "U Jellys",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT020.png"
+  },
+  {
+    "id": 865,
+    "name": "Hyper Guppies",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT021.png"
+  },
+  {
+    "id": 866,
+    "name": "Turbo Tabi Red",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT022.png"
+  },
+  {
+    "id": 867,
+    "name": "E-JECT 30XX",
+    "brand": "Emberz",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT023.png"
+  },
+  {
+    "id": 868,
+    "name": "Slamgerine Slip-Ons",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT024.png"
+  },
+  {
+    "id": 869,
+    "name": "Mako Bucket Hi-Tops",
+    "brand": "Emberz",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT025.png"
+  },
+  {
+    "id": 870,
+    "name": "Blue Shrimpsiders",
+    "brand": "Enperry",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT026.png"
+  },
+  {
+    "id": 871,
+    "name": "E-JECT 30VV",
+    "brand": "Emberz",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT027.png"
+  },
+  {
+    "id": 872,
+    "name": "OB Gaiter Waders",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT028.png"
+  },
+  {
+    "id": 873,
+    "name": "AG Gaiter Waders",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT029.png"
+  },
+  {
+    "id": 874,
+    "name": "Noir Guppies",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT030.png"
+  },
+  {
+    "id": 875,
+    "name": "LT-CL0WN",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SHT031.png"
+  },
+  {
+    "id": 876,
+    "name": "Blue Lo-Tops",
+    "brand": "Zekko",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO000.png"
+  },
+  {
+    "id": 877,
+    "name": "Banana Basics",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO001.png"
+  },
+  {
+    "id": 878,
+    "name": "LE Lo-Tops",
+    "brand": "Zekko",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO002.png"
+  },
+  {
+    "id": 879,
+    "name": "White Seahorses",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO003.png"
+  },
+  {
+    "id": 880,
+    "name": "Orange Lo-Tops",
+    "brand": "Zekko",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO004.png"
+  },
+  {
+    "id": 881,
+    "name": "Black Seahorses",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO005.png"
+  },
+  {
+    "id": 882,
+    "name": "Clownfish Basics",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO006.png"
+  },
+  {
+    "id": 883,
+    "name": "Yellow Seahorses",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO007.png"
+  },
+  {
+    "id": 884,
+    "name": "White 3-Straps",
+    "brand": "Splash Mob",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO008.png"
+  },
+  {
+    "id": 885,
+    "name": "Red 3-Straps",
+    "brand": "Splash Mob",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO009.png"
+  },
+  {
+    "id": 886,
+    "name": "Soccer Shoes",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO010.png"
+  },
+  {
+    "id": 887,
+    "name": "LE Soccer Shoes",
+    "brand": "Takoroka",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO011.png"
+  },
+  {
+    "id": 888,
+    "name": "Sunny Climbing Shoes",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO012.png"
+  },
+  {
+    "id": 889,
+    "name": "Birch Climbing Shoes",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO013.png"
+  },
+  {
+    "id": 890,
+    "name": "Green Lace-Ups",
+    "brand": "Splash Mob",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO014.png"
+  },
+  {
+    "id": 891,
+    "name": "White Laceless Dakroniks",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO015.png"
+  },
+  {
+    "id": 892,
+    "name": "Blue Laceless Dakroniks",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO016.png"
+  },
+  {
+    "id": 893,
+    "name": "Suede Gray Lace-Ups",
+    "brand": "Zekko",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO017.png"
+  },
+  {
+    "id": 894,
+    "name": "Suede Nation Lace-Ups",
+    "brand": "Zekko",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO018.png"
+  },
+  {
+    "id": 895,
+    "name": "Suede Marine Lace-Ups",
+    "brand": "Zekko",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO019.png"
+  },
+  {
+    "id": 896,
+    "name": "Toni Kensa Soccer Shoes",
+    "brand": "Toni Kensa",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO020.png"
+  },
+  {
+    "id": 897,
+    "name": "Wasabi Tabi",
+    "brand": "Tentatek",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO021.png"
+  },
+  {
+    "id": 898,
+    "name": "Suede Basics",
+    "brand": "Barazushi",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO022.png"
+  },
+  {
+    "id": 899,
+    "name": "Ink-Black Clam 600s",
+    "brand": "Toni Kensa",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO023.png"
+  },
+  {
+    "id": 900,
+    "name": "Suede Bosses",
+    "brand": "Barazushi",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO024.png"
+  },
+  {
+    "id": 901,
+    "name": "White Clam 600s",
+    "brand": "Toni Kensa",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO025.png"
+  },
+  {
+    "id": 902,
+    "name": "Stamina Cycling Shoes",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO026.png"
+  },
+  {
+    "id": 903,
+    "name": "Energy Cycling Shoes",
+    "brand": "Zink",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLO027.png"
+  },
+  {
+    "id": 904,
+    "name": "Blue Slip-Ons",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLP000.png"
+  },
+  {
+    "id": 905,
+    "name": "Red Slip-Ons",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLP001.png"
+  },
+  {
+    "id": 906,
+    "name": "Squid-Stitch Slip-Ons",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLP002.png"
+  },
+  {
+    "id": 907,
+    "name": "Polka-Dot Slip-Ons",
+    "brand": "Krak-On",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLP003.png"
+  },
+  {
+    "id": 908,
+    "name": "ZedFry Slip-Ons",
+    "brand": "Z+F",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_SLP004.png"
+  },
+  {
+    "id": 909,
+    "name": "Fry Tops",
+    "brand": "SquidForce",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_TRG000.png"
+  },
+  {
+    "id": 910,
+    "name": "Burden of Floof",
+    "brand": "SquidForce",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_TRG001.png"
+  },
+  {
+    "id": 911,
+    "name": "Trail Boots",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_TRS000.png"
+  },
+  {
+    "id": 912,
+    "name": "Custom Trail Boots",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_TRS001.png"
+  },
+  {
+    "id": 913,
+    "name": "Pro Trail Boots",
+    "brand": "Inkline",
+    "gearType": "shoes",
+    "imageUrl": "assets/images/gear/Shs_TRS002.png"
+  }
+]
