@@ -1,0 +1,11 @@
+<header class="header">
+  <a href="/" class="logo">Iron Squid</a>
+  <div class="header-right">
+    <a
+      *ngFor="let item of menuItems"
+      [ngClass]="{ active: isMenuActive(item.route) }"
+      [href]="item.route"
+      >{{ item.name }}</a
+    >
+  </div>
+</header>
