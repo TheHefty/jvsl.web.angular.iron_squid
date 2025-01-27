@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { NgxIndexedDBService } from 'ngx-indexed-db';
-import { IChallenge } from '../interfaces/challenge';
+import { IChallenge } from '../models/challenge.model';
 import { Observable } from 'rxjs';
 
 @Injectable({

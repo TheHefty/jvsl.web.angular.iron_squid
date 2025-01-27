@@ -1,5 +1,5 @@
-import { ChallengeStatus } from '../enums/challenge-status';
-import { IGearSet } from './gear-set';
+import { ChallengeStatus } from '../enums/challenge-status.enum';
+import { IGearSet } from './gear-set.model';
 
 export interface IChallenge {
   id?: number;

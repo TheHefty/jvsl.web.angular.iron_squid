@@ -1,8 +1,8 @@
 import { HttpClient, HttpErrorResponse } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { catchError, Observable, tap, throwError } from 'rxjs';
-import { IGearInfo } from '../interfaces/gear-info';
-import { IWeaponInfo } from '../interfaces/weapon-info';
+import { IGearInfo } from '../models/gear-info.model';
+import { IWeaponInfo } from '../models/weapon-info.model';
 
 @Injectable({
   providedIn: 'root',

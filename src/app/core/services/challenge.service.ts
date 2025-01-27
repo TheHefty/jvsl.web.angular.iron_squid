@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { IChallenge } from '../interfaces/challenge';
+import { IChallenge } from '../models/challenge.model';
 import { ChallengeRepository } from '../repositories/challenge.repository';
 import { Observable } from 'rxjs';
 

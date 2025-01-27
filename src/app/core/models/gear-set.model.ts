@@ -1,6 +1,6 @@
 import { GameMode } from '../enums/game-mode.enum';
-import { IGearInfo } from './gear-info';
-import { IWeaponInfo } from './weapon-info';
+import { IGearInfo } from './gear-info.model';
+import { IWeaponInfo } from './weapon-info.model';
 
 export interface IGearSet {
   weapon: IWeaponInfo;

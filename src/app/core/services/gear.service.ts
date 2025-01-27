@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { GearRepository } from '../repositories/gear.repository';
-import { IGearInfo } from '../interfaces/gear-info';
-import { IWeaponInfo } from '../interfaces/weapon-info';
+import { IGearInfo } from '../models/gear-info.model';
+import { IWeaponInfo } from '../models/weapon-info.model';
 import { Observable } from 'rxjs';
 import { map } from 'rxjs/operators';
 @Injectable({
