@@ -1,0 +1,12 @@
+.container {
+  display: grid;
+  grid-template-columns: auto 1fr;
+}
+
+.metallic-effect {
+  width: 400px;
+  height: 400px;
+  background: url("@assets/icons/x_battle_logo.svg") no-repeat center center;
+  background-size: contain;
+  filter: grayscale(100%) contrast(150%) brightness(80%);
+}

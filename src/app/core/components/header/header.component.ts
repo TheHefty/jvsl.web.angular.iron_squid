@@ -12,6 +12,7 @@ export class HeaderComponent {
   menuItems: { name: string; route: string }[] = [
     { name: 'Home', route: '/home' },
     { name: 'Challenges', route: '/challenges' },
+    { name: 'About', route: '/about' },
   ];
 
   constructor(private router: Router) {}

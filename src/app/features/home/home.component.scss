@@ -1,0 +1,17 @@
+.container {
+  display: grid;
+  grid-template-columns: auto 1fr;
+
+  div:last-child {
+    align-content: center;
+  }
+}
+
+.metallic-effect {
+  width: 370px;
+  height: 370px;
+  background: url("@assets/icons/anarchy_series_logo.png") no-repeat center
+    center;
+  background-size: contain;
+  filter: grayscale(100%) contrast(150%) brightness(120%);
+}
