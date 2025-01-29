@@ -16,10 +16,13 @@ import {
 } from '@angular/router';
 
 import { provideHttpClient, withFetch } from '@angular/common/http';
-import { routes } from './app.routes';
 import { provideAnimationsAsync } from '@angular/platform-browser/animations/async';
+import { provideEffects } from '@ngrx/effects';
+import { provideStore } from '@ngrx/store';
 import { provideIndexedDb } from 'ngx-indexed-db';
 import { dbConfig } from './app-db-config';
+import { routes } from './app.routes';
+import { appEffects, appStore } from './core/store/store';
 
 export const appConfig: ApplicationConfig = {
   providers: [
@@ -55,5 +58,7 @@ export const appConfig: ApplicationConfig = {
     provideAnimationsAsync(),
     provideAnimationsAsync(),
     provideIndexedDb(dbConfig),
+    provideStore(appStore),
+    provideEffects(appEffects),
   ],
 };
