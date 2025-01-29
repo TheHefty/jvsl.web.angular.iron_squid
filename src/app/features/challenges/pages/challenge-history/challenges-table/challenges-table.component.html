@@ -1,0 +1,77 @@
+<div *ngIf="dataSource.data.length === 0; else elseBlock" class="no-data">
+  <h2>No challenges ongoing</h2>
+</div>
+<ng-template #elseBlock>
+  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+    <ng-container matColumnDef="continue">
+      <th mat-header-cell *matHeaderCellDef style="width: 5%"></th>
+      <td mat-cell style="width: 5%" *matCellDef="let element">
+        <a
+          mat-icon-button
+          href="challenges/id/{{ element.id }}"
+          matTooltip="Continue Challenge"
+          aria-label="Example icon button with a vertical three dot icon"
+        >
+          <mat-icon>play_arrow</mat-icon>
+        </a>
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="id">
+      <th mat-header-cell *matHeaderCellDef>Id</th>
+      <td mat-cell *matCellDef="let element">{{ element.id }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="attempts">
+      <th mat-header-cell *matHeaderCellDef>Attempts</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.runsHistory.length }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="status">
+      <th mat-header-cell *matHeaderCellDef>Status</th>
+      <td mat-cell *matCellDef="let element">{{ element.status }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="updateDate">
+      <th mat-header-cell *matHeaderCellDef>Update Date</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.updateDate | date : "medium" }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="options">
+      <th mat-header-cell *matHeaderCellDef style="width: 10%"></th>
+      <td mat-cell style="width: 5%" *matCellDef="let element">
+        <a
+          mat-icon-button
+          href="#"
+          target="_blank"
+          matTooltip="Export Data"
+          aria-label="Example icon button with a vertical three dot icon"
+        >
+          <mat-icon>file_download</mat-icon>
+        </a>
+        <button
+          mat-icon-button
+          (click)="openDialog(element.id)"
+          matTooltip="Delete challenge"
+          aria-label="Example icon button with a vertical three dot icon"
+        >
+          <mat-icon>delete</mat-icon>
+        </button>
+      </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+
+    <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+  </table>
+  <mat-paginator
+    style="float: inline-end"
+    [pageSize]="10"
+    aria-label="Select page"
+  >
+  </mat-paginator>
+</ng-template>

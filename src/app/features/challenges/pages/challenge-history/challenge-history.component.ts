@@ -1,9 +1,48 @@
+import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
+import { MatButtonModule } from '@angular/material/button';
+import { MatCardModule } from '@angular/material/card';
+import { Router } from '@angular/router';
+import { IChallenge } from '@app/core/models/challenge.model';
+import { ChallengesActions } from '@app/core/store/actions/challenges.actions';
+import {
+  selectChallenges,
+  selectLoading,
+} from '@app/core/store/selectors/challenges.selectors';
+import { AppState } from '@app/core/store/store';
+import { createEmptyChallenge } from '@app/core/utils/utils';
+import { Store } from '@ngrx/store';
+import { Observable } from 'rxjs';
+import { ChallengesTableComponent } from './challenges-table/challenges-table.component';
 
 @Component({
   selector: 'app-challenge-history',
-  imports: [],
+  imports: [
+    CommonModule,
+    MatButtonModule,
+    MatCardModule,
+    ChallengesTableComponent,
+  ],
   templateUrl: './challenge-history.component.html',
   styleUrl: './challenge-history.component.scss',
 })
-export class ChallengeHistoryComponent {}
+export class ChallengeHistoryComponent {
+  challenges$: Observable<IChallenge[]>;
+  isLoading$: Observable<boolean>;
+
+  constructor(private store: Store<AppState>, private router: Router) {
+    this.challenges$ = this.store.select(selectChallenges);
+    this.isLoading$ = this.store.select(selectLoading);
+  }
+
+  newChallenge(): void {
+    this.store.dispatch(
+      ChallengesActions.addChallenge({ challenge: createEmptyChallenge() })
+    );
+    this.store
+      .select((state) => state.challenges.challenges.at(-1))
+      .subscribe((challenge) =>
+        this.router.navigate(['challenges/id', challenge!.id])
+      );
+  }
+}

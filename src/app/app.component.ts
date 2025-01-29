@@ -1,7 +1,10 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { HeaderComponent } from '@core/components/header/header.component';
 import { FooterComponent } from '@core/components/footer/footer.component';
+import { Store } from '@ngrx/store';
+import { ChallengesActions } from './core/store/actions/challenges.actions';
+import { AppState } from './core/store/store';
 
 @Component({
   selector: 'app-root',
@@ -9,6 +12,12 @@ import { FooterComponent } from '@core/components/footer/footer.component';
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
   title = 'Iron Squid Challenge';
+
+  constructor(private store: Store<AppState>) {}
+
+  ngOnInit(): void {
+    this.store.dispatch(ChallengesActions.loadChallenges());
+  }
 }
