@@ -5,7 +5,10 @@ import { IChallenge } from '../models/challenge.model';
 import { AppState } from '../store/store';
 import { Injectable } from '@angular/core';
 import { ChallengesActions } from '../store/actions/challenges.actions';
-import { selectChallenges } from '../store/selectors/challenges.selectors';
+import {
+  selectChallenges,
+  selectCurrentChallenge,
+} from '../store/selectors/challenges.selectors';
 
 @Injectable({
   providedIn: 'root',
@@ -14,15 +17,13 @@ export class PathCheckGuard implements CanActivate {
   challenges$;
 
   constructor(private store: Store<AppState>, private router: Router) {
-    this.challenges$ = this.store.select(selectChallenges);
+    this.challenges$ = this.store.select(selectCurrentChallenge);
   }
 
-  canActivate(activatedRoute: ActivatedRouteSnapshot): Observable<boolean> {
-    const id = Number(activatedRoute.paramMap.get('id'));
-
+  canActivate(): Observable<boolean> {
     return this.challenges$.pipe(
-      map((challenges) => {
-        if (challenges.find((c) => c.id === id)) {
+      map((challenge) => {
+        if (challenge) {
           return true;
         } else {
           this.router.navigate(['/not-found']);

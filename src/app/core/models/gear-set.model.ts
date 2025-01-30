@@ -10,5 +10,4 @@ export interface IGearSet {
   gameMode: GameMode | undefined;
   isVictory: boolean;
   updateDate: Date;
-  previousGear?: IGearSet;
 }

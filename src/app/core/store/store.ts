@@ -1,9 +1,9 @@
 import { Action, ActionReducer } from '@ngrx/store';
+import { ChallengeEffects } from './effects/challenge.effects';
 import {
   challengesReducer,
   ChallengeState,
 } from './reducers/challenges.reducer';
-import { ChallengeEffects } from './effects/challenge.effects';
 
 export interface AppState {
   challenges: ChallengeState;

@@ -28,21 +28,15 @@ import { ChallengesTableComponent } from './challenges-table/challenges-table.co
 })
 export class ChallengeHistoryComponent {
   challenges$: Observable<IChallenge[]>;
-  isLoading$: Observable<boolean>;
 
   constructor(private store: Store<AppState>, private router: Router) {
     this.challenges$ = this.store.select(selectChallenges);
-    this.isLoading$ = this.store.select(selectLoading);
   }
 
   newChallenge(): void {
     this.store.dispatch(
       ChallengesActions.addChallenge({ challenge: createEmptyChallenge() })
     );
-    this.store
-      .select((state) => state.challenges.challenges.at(-1))
-      .subscribe((challenge) =>
-        this.router.navigate(['challenges/id', challenge!.id])
-      );
+    this.router.navigate(['challenges/current']);
   }
 }

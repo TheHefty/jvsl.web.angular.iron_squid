@@ -22,7 +22,7 @@ import { provideStore } from '@ngrx/store';
 import { provideIndexedDb } from 'ngx-indexed-db';
 import { dbConfig } from './app-db-config';
 import { routes } from './app.routes';
-import { appEffects, appStore } from './core/store/store';
+import { appEffects, appStore } from '@core/store/store';
 
 export const appConfig: ApplicationConfig = {
   providers: [

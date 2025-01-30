@@ -6,7 +6,7 @@ import { PathCheckGuard } from '@app/core/guards/path-check.guard';
 export const challengeRoutes: Routes = [
   { path: '', component: ChallengeHistoryComponent },
   {
-    path: 'id/:id',
+    path: 'current',
     component: MatchHistoryComponent,
     canActivate: [PathCheckGuard],
   },

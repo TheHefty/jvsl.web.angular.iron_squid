@@ -8,6 +8,7 @@ export const ChallengesActions = createActionGroup({
     'Load Challenges Success': props<{ challenges: IChallenge[] }>(),
     'Load Challenges Failure': props<{ error: string }>(),
     'Add Challenge': props<{ challenge: IChallenge }>(),
+    'Set Challenge': props<{ challengeId: number }>(),
     'Update Challenge': props<{ challenge: IChallenge }>(),
     'Delete Challenge': props<{ challengeId: number }>(),
   },

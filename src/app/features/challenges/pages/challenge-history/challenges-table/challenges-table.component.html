@@ -6,14 +6,13 @@
     <ng-container matColumnDef="continue">
       <th mat-header-cell *matHeaderCellDef style="width: 5%"></th>
       <td mat-cell style="width: 5%" *matCellDef="let element">
-        <a
+        <button
           mat-icon-button
-          href="challenges/id/{{ element.id }}"
+          (click)="selectChallenge(element.id)"
           matTooltip="Continue Challenge"
-          aria-label="Example icon button with a vertical three dot icon"
         >
           <mat-icon>play_arrow</mat-icon>
-        </a>
+        </button>
       </td>
     </ng-container>
 
@@ -44,20 +43,13 @@
     <ng-container matColumnDef="options">
       <th mat-header-cell *matHeaderCellDef style="width: 10%"></th>
       <td mat-cell style="width: 5%" *matCellDef="let element">
-        <a
-          mat-icon-button
-          href="#"
-          target="_blank"
-          matTooltip="Export Data"
-          aria-label="Example icon button with a vertical three dot icon"
-        >
+        <a mat-icon-button href="#" target="_blank" matTooltip="Export Data">
           <mat-icon>file_download</mat-icon>
         </a>
         <button
           mat-icon-button
           (click)="openDialog(element.id)"
           matTooltip="Delete challenge"
-          aria-label="Example icon button with a vertical three dot icon"
         >
           <mat-icon>delete</mat-icon>
         </button>

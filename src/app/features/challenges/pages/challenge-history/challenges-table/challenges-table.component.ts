@@ -18,6 +18,7 @@ import { ConfirmDialogComponent } from '@app/core/components/confirm-dialog/conf
 import { AppState } from '@app/core/store/store';
 import { Store } from '@ngrx/store';
 import { ChallengesActions } from '@app/core/store/actions/challenges.actions';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-challenges-table',
@@ -47,7 +48,7 @@ export class ChallengesTableComponent implements OnChanges {
 
   @ViewChild(MatPaginator) paginator!: MatPaginator;
 
-  constructor(private store: Store<AppState>) {}
+  constructor(private store: Store<AppState>, private router: Router) {}
 
   ngOnChanges(changes: SimpleChanges): void {
     if (changes['data']) {
@@ -64,6 +65,11 @@ export class ChallengesTableComponent implements OnChanges {
         this.deleteChallenge(id);
       }
     });
+  }
+
+  selectChallenge(id: number): void {
+    this.store.dispatch(ChallengesActions.setChallenge({ challengeId: id }));
+    this.router.navigate(['challenges/current']);
   }
 
   deleteChallenge(id: number): void {
