@@ -48,13 +48,11 @@ export const challengesReducer = createReducer(
     currenteChallenge: challenge,
     loading: false,
   })),
-  on(ChallengesActions.updateChallenge, (state, { challenge }) => {
-    return {
-      ...state,
-      currenteChallenge: challenge,
-      loading: false,
-    };
-  }),
+  on(ChallengesActions.updateChallenge, (state, { challenge }) => ({
+    ...state,
+    currenteChallenge: challenge,
+    loading: false,
+  })),
   on(ChallengesActions.deleteChallenge, (state) => ({
     ...state,
     loading: false,

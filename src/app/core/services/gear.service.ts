@@ -10,10 +10,8 @@ import { map } from 'rxjs/operators';
 export class GearService {
   constructor(private gearRepository: GearRepository) {}
 
-  getGearInfo(gearType: 'head' | 'clothes' | 'shoes'): Observable<IGearInfo[]> {
-    return this.gearRepository
-      .getGearInfo()
-      .pipe(map((resp) => resp.filter((gear) => gear.gearType === gearType)));
+  getGearInfo(): Observable<IGearInfo[]> {
+    return this.gearRepository.getGearInfo();
   }
 
   getWeaponInfo(): Observable<IWeaponInfo[]> {
