@@ -1,5 +1,9 @@
 <h2>Challenge #{{ (currentChallenge$ | async)!.id }}</h2>
 <div class="container">
+  <app-celebration
+    style="position: absolute; z-index: 10"
+    *ngIf="(currentChallenge$ | async)!.status === 'Completed'"
+  />
   <app-gear-set-card [currentChallenge]="(currentChallenge$ | async)!" />
   <app-match-table [currentChallenge]="(currentChallenge$ | async)!" />
 </div>
