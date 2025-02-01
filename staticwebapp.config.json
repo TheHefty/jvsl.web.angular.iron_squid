@@ -1,16 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "/home",
-      "methods": [
-        "get"
-      ]
-    },
-    {
-      "route": "/challenges",
-      "methods": [
-        "get"
-      ]
-    }
-  ]
-}
+{}
