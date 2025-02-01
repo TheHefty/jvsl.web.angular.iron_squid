@@ -43,7 +43,12 @@
     <ng-container matColumnDef="options">
       <th mat-header-cell *matHeaderCellDef style="width: 10%"></th>
       <td mat-cell style="width: 5%" *matCellDef="let element">
-        <a mat-icon-button href="#" target="_blank" matTooltip="Export Data">
+        <a
+          mat-icon-button
+          [href]="generateCSVFile(element)"
+          target="_blank"
+          matTooltip="Export Data"
+        >
           <mat-icon>file_download</mat-icon>
         </a>
         <button

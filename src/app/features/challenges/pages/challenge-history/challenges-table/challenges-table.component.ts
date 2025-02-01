@@ -19,6 +19,7 @@ import { AppState } from '@app/core/store/store';
 import { Store } from '@ngrx/store';
 import { ChallengesActions } from '@app/core/store/actions/challenges.actions';
 import { Router } from '@angular/router';
+import { IGearSet } from '@app/core/models/gear-set.model';
 
 @Component({
   selector: 'app-challenges-table',
@@ -55,6 +56,34 @@ export class ChallengesTableComponent implements OnChanges {
       this.dataSource.data = this.data;
       this.dataSource.paginator = this.paginator;
     }
+  }
+
+  generateCSVFile(challenge: IChallenge) {
+    let csvData = '';
+
+    csvData +=
+      'Weapon, Head Gear, Cloth Gear, Shoes Gear, Game Mode, Victory, Last Update\n';
+
+    challenge.attemptsHistory.forEach((attempt) => {
+      csvData += `${attempt.weapon.name},${attempt.headGear.name},${
+        attempt.clothesGear.name
+      },${attempt.shoesGear.name},${attempt.gameMode},${
+        attempt.isVictory ? 'yes' : 'no'
+      },${attempt.updateDate.toLocaleDateString()}\n`;
+    });
+    challenge.runsHistory.forEach((run) => {
+      run.attemptsHistory.forEach((attempt) => {
+        csvData += `${attempt.weapon.name},${attempt.headGear.name},${
+          attempt.clothesGear.name
+        },${attempt.shoesGear.name},${attempt.gameMode},${
+          attempt.isVictory ? 'yes' : 'no'
+        },${attempt.updateDate.toLocaleDateString()}\n`;
+      });
+    });
+
+    let blob = new Blob([csvData], { type: 'text/csv' });
+
+    return window.URL.createObjectURL(blob);
   }
 
   openDialog(id: number) {
