@@ -163,18 +163,18 @@ export class GearSetCardComponent implements OnChanges {
       this.challenge.attemptsHistory.unshift({ ...this.challenge.currentGear });
     }
 
-    if (this.challenge.attemptsHistory.length === 130) {
+    if (this.challenge.attemptsHistory.length === 129) {
       this.challenge.status = ChallengeStatus.COMPLETED;
-    }
+    } else {
+      for (let i = 0; i < this.gearRerollFuncs.length; i++) {
+        this.gearRerollFuncs[i]();
+      }
 
-    for (let i = 0; i < this.gearRerollFuncs.length; i++) {
-      this.gearRerollFuncs[i]();
+      this.challenge.lives =
+        this.challenge.attemptsHistory.length % 10 === 0
+          ? this.challenge.lives + 1
+          : this.challenge.lives;
     }
-
-    this.challenge.lives =
-      this.challenge.attemptsHistory.length % 10 === 0
-        ? this.challenge.lives + 1
-        : this.challenge.lives;
 
     this.challenge.updateDate = new Date();
     this.challenge.currentGear.updateDate = new Date();

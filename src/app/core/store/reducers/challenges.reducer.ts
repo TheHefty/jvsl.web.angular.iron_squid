@@ -3,14 +3,13 @@ import { createReducer, on } from '@ngrx/store';
 import { ChallengesActions } from '../actions/challenges.actions';
 
 export interface ChallengeState {
-  currenteChallenge: IChallenge | undefined;
+  currenteChallenge?: IChallenge | undefined;
   challenges: IChallenge[];
   loading: boolean;
   error: string;
 }
 
 export const initialState: ChallengeState = {
-  currenteChallenge: undefined,
   challenges: [],
   loading: false,
   error: '',
