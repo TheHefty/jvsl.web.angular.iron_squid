@@ -1,1 +1,5 @@
-<p>match-history works!</p>
+<h2>Challenge #{{ (currentChallenge$ | async)!.id }}</h2>
+<div class="container">
+  <app-gear-set-card [currentChallenge]="(currentChallenge$ | async)!" />
+  <app-match-table [currentChallenge]="(currentChallenge$ | async)!" />
+</div>

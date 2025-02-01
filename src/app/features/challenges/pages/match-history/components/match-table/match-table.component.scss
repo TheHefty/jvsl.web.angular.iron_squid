@@ -1,0 +1,34 @@
+table {
+  width: 100%;
+  tr.win {
+    background-color: #55efc4;
+  }
+
+  tr.loss {
+    background-color: #ff7675;
+  }
+}
+
+.card {
+  height: 100%;
+}
+
+.container {
+  display: grid;
+  grid-template-rows: 1fr auto;
+
+  .no-data:first-child {
+    align-self: center;
+    justify-items: center;
+  }
+}
+
+.no-data {
+  text-align: center;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+}

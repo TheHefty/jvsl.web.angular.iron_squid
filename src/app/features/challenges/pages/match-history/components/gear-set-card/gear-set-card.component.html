@@ -1,0 +1,108 @@
+<mat-card class="set-card" appearance="outlined">
+  <mat-card-header class="card-header">
+    <mat-card-title>Current Set</mat-card-title>
+    <span>Lives: {{ challenge.lives }}</span>
+  </mat-card-header>
+  <mat-card-content>
+    <div class="container">
+      <div>
+        <div>{{ challenge.currentGear.weapon.name }}</div>
+        <div>
+          <img
+            [src]="challenge.currentGear.weapon.imageUrl"
+            [alt]="challenge.currentGear.weapon.name"
+            width="202"
+            loading="lazy"
+          />
+        </div>
+      </div>
+      <div>
+        <div>
+          <img
+            matTooltip="{{ challenge.currentGear.headGear.brand }}"
+            [src]="challenge.currentGear.headGear.imageUrl"
+            [alt]="challenge.currentGear.headGear.name"
+            width="64"
+            loading="lazy"
+          />
+          <span>{{ challenge.currentGear.headGear.name }}</span>
+          <button
+            (click)="rerollGear(1)"
+            matTooltip="Reroll gear"
+            mat-icon-button
+          >
+            <mat-icon>autorenew</mat-icon>
+          </button>
+        </div>
+        <div>
+          <img
+            matTooltip="{{ challenge.currentGear.clothesGear.brand }}"
+            [src]="challenge.currentGear.clothesGear.imageUrl"
+            [alt]="challenge.currentGear.clothesGear.name"
+            width="64"
+            loading="lazy"
+          />
+          <span>{{ challenge.currentGear.clothesGear.name }}</span>
+          <button
+            (click)="rerollGear(2)"
+            matTooltip="Reroll gear"
+            mat-icon-button
+          >
+            <mat-icon>autorenew</mat-icon>
+          </button>
+        </div>
+        <div>
+          <img
+            matTooltip="{{ challenge.currentGear.shoesGear.brand }}"
+            [src]="challenge.currentGear.shoesGear.imageUrl"
+            [alt]="challenge.currentGear.shoesGear.name"
+            width="64"
+            loading="lazy"
+          />
+          <span>{{ challenge.currentGear.shoesGear.name }}</span>
+
+          <button
+            (click)="rerollGear(3)"
+            matTooltip="Reroll gear"
+            mat-icon-button
+          >
+            <mat-icon>autorenew</mat-icon>
+          </button>
+        </div>
+      </div>
+    </div>
+  </mat-card-content>
+  <mat-card-actions class="actions-container">
+    <div>
+      <mat-button-toggle-group
+        name="game-modes"
+        aria-label="Game Modes"
+        hideSingleSelectionIndicator
+        [(ngModel)]="challenge.currentGear.gameMode"
+      >
+        <mat-button-toggle value="Splat Zones">Splat Zones</mat-button-toggle>
+        <mat-button-toggle value="Tower Control"
+          >Tower Control</mat-button-toggle
+        >
+        <mat-button-toggle value="Clam Blitz">Clam Blitz</mat-button-toggle>
+        <mat-button-toggle value="Rainmaker">Rainmaker</mat-button-toggle>
+      </mat-button-toggle-group>
+    </div>
+    <div class="action-buttons-container">
+      <button
+        (click)="defeatEvent()"
+        mat-stroked-button
+        [disabled]="challenge.status === 'Completed'"
+      >
+        Defeat
+      </button>
+      <button
+        (click)="victoryEvent()"
+        mat-flat-button
+        [disabled]="challenge.status === 'Completed'"
+      >
+        Victory
+      </button>
+    </div>
+  </mat-card-actions>
+</mat-card>
