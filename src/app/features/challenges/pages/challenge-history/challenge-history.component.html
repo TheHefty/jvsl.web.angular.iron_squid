@@ -2,10 +2,12 @@
 <div class="button-container">
   <button mat-flat-button (click)="newChallenge()">New Challenge</button>
 </div>
-<mat-card appearance="outlined">
-  <mat-card-content class="no-data">
-    <ng-container *ngIf="challenges$ | async as challenges">
-      <app-challenges-table [data]="challenges" />
-    </ng-container>
-  </mat-card-content>
-</mat-card>
+<div class="content">
+  <mat-card class="card" appearance="outlined">
+    <mat-card-content>
+      <ng-container *ngIf="challenges$ | async as challenges">
+        <app-challenges-table [data]="challenges" />
+      </ng-container>
+    </mat-card-content>
+  </mat-card>
+</div>

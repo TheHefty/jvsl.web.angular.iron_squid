@@ -1,11 +1,21 @@
-.container {
-  display: grid;
-  grid-template-columns: auto 1fr;
+@media (min-width: 600px) {
+  .container {
+    display: grid;
+    grid-template-rows: auto 1fr;
+  }
+}
+
+@media (min-width: 900px) {
+  .container {
+    display: grid;
+    grid-template-columns: auto 1fr;
+  }
 }
 
 .metallic-effect {
-  width: 400px;
-  height: 400px;
+  width: 370px;
+  height: 370px;
+  justify-self: center;
   background: url("@assets/icons/x_battle_logo.svg") no-repeat center center;
   background-size: contain;
   filter: grayscale(100%) contrast(150%) brightness(80%);

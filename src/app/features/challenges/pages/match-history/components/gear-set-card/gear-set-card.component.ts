@@ -155,7 +155,6 @@ export class GearSetCardComponent implements OnChanges {
 
   victoryEvent() {
     if (this.challenge.currentGear.headGear.id !== 0) {
-      debugger;
       if (!this.challenge.currentGear.gameMode) {
         this._snackBar.open('Choose a game mode', 'close');
         return;

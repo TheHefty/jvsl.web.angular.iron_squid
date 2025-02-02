@@ -2,3 +2,20 @@
   justify-self: end;
   padding: 20px;
 }
+
+@media (max-width: 600px) {
+  .content {
+    overflow-x: scroll;
+    width: 90vw;
+    .card {
+      width: fit-content;
+    }
+  }
+}
+
+@media (min-width: 900px) {
+  .content {
+    overflow-x: hidden;
+    width: 100%;
+  }
+}
