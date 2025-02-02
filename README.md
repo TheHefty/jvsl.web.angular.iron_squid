@@ -27,3 +27,5 @@ Demonstrate your proficiency in Splatoon by achieving consecutive victories with
 - Skipping weapons or gear is not permitted; each must be used to achieve a victory.
 
 - Progress can be tracked on our dedicated website, where players are encouraged to share their achievements with the community.
+
+[Iron Squid](https://green-ground-0d403d10f.4.azurestaticapps.net/)
