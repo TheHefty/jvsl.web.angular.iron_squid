@@ -37,6 +37,5 @@ export class ChallengeHistoryComponent {
     this.store.dispatch(
       ChallengesActions.addChallenge({ challenge: createEmptyChallenge() })
     );
-    this.router.navigate(['challenges/current']);
   }
 }

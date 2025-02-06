@@ -31,7 +31,9 @@ export class ChallengeEffects {
         this.challengeService
           .addChallenge(challenge)
           .pipe(
-            map((challenge) => ChallengesActions.addChallenge({ challenge }))
+            map((challenge) =>
+              ChallengesActions.addChallengeSuccess({ challenge })
+            )
           )
       )
     )

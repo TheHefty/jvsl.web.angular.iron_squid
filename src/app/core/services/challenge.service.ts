@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { IChallenge } from '../models/challenge.model';
 import { ChallengeRepository } from '../repositories/challenge.repository';
-import { Observable } from 'rxjs';
+import { Observable, tap } from 'rxjs';
 
 @Injectable({
   providedIn: 'root',
@@ -10,7 +10,9 @@ export class ChallengeService {
   constructor(private challengeRepository: ChallengeRepository) {}
 
   addChallenge(challenge: IChallenge): Observable<IChallenge> {
-    return this.challengeRepository.addChallenge(challenge);
+    return this.challengeRepository
+      .addChallenge(challenge)
+      .pipe(tap((response) => console.log(response)));
   }
 
   getChallenges(): Observable<IChallenge[]> {
