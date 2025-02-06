@@ -138,13 +138,14 @@ export class GearSetCardComponent implements OnChanges {
     this.challenge.lives = this.challenge.lives - 1;
 
     if (this.challenge.lives === 0) {
+      this.challenge.currentGear.isVictory = false;
+      this.challenge.attemptsHistory.unshift({ ...this.challenge.currentGear });
       this.challenge.runsHistory?.unshift({
         updateDate: new Date(),
         attemptsHistory: this.challenge.attemptsHistory,
       });
       this.challenge.attemptsHistory = [];
       this.challenge.lives = 1;
-      this.challenge.currentGear.isVictory = false;
     }
 
     this.challenge.updateDate = new Date();
@@ -159,6 +160,7 @@ export class GearSetCardComponent implements OnChanges {
         this._snackBar.open('Choose a game mode', 'close');
         return;
       }
+      this.challenge.currentGear.isVictory = true;
       this.challenge.attemptsHistory.unshift({ ...this.challenge.currentGear });
     }
 

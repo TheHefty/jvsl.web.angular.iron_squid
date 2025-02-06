@@ -1,6 +1,5 @@
 import { CommonModule } from '@angular/common';
 import {
-  ChangeDetectorRef,
   Component,
   inject,
   Input,
@@ -8,18 +7,18 @@ import {
   SimpleChanges,
   ViewChild,
 } from '@angular/core';
-import { MatPaginator, MatPaginatorModule } from '@angular/material/paginator';
 import { MatButtonModule } from '@angular/material/button';
-import { MatTableDataSource, MatTableModule } from '@angular/material/table';
-import { MatIconModule } from '@angular/material/icon';
-import { IChallenge } from '@app/core/models/challenge.model';
 import { MatDialog } from '@angular/material/dialog';
+import { MatIconModule } from '@angular/material/icon';
+import { MatPaginator, MatPaginatorModule } from '@angular/material/paginator';
+import { MatTableDataSource, MatTableModule } from '@angular/material/table';
+import { MatTooltipModule } from '@angular/material/tooltip';
+import { Router } from '@angular/router';
 import { ConfirmDialogComponent } from '@app/core/components/confirm-dialog/confirm-dialog.component';
+import { IChallenge } from '@app/core/models/challenge.model';
+import { ChallengesActions } from '@app/core/store/actions/challenges.actions';
 import { AppState } from '@app/core/store/store';
 import { Store } from '@ngrx/store';
-import { ChallengesActions } from '@app/core/store/actions/challenges.actions';
-import { Router } from '@angular/router';
-import { IGearSet } from '@app/core/models/gear-set.model';
 
 @Component({
   selector: 'app-challenges-table',
@@ -29,6 +28,7 @@ import { IGearSet } from '@app/core/models/gear-set.model';
     MatTableModule,
     MatIconModule,
     MatButtonModule,
+    MatTooltipModule,
   ],
   templateUrl: './challenges-table.component.html',
   styleUrl: './challenges-table.component.scss',
@@ -62,22 +62,22 @@ export class ChallengesTableComponent implements OnChanges {
     let csvData = '';
 
     csvData +=
-      'Weapon, Head Gear, Cloth Gear, Shoes Gear, Game Mode, Victory, Last Update\n';
+      'Weapon; Head Gear; Cloth Gear; Shoes Gear; Game Mode; Victory; Last Update\n';
 
     challenge.attemptsHistory.forEach((attempt) => {
-      csvData += `${attempt.weapon.name},${attempt.headGear.name},${
+      csvData += `${attempt.weapon.name};${attempt.headGear.name};${
         attempt.clothesGear.name
-      },${attempt.shoesGear.name},${attempt.gameMode},${
+      };${attempt.shoesGear.name};${attempt.gameMode};${
         attempt.isVictory ? 'yes' : 'no'
-      },${attempt.updateDate.toLocaleDateString()}\n`;
+      };${attempt.updateDate.toLocaleDateString()}\n`;
     });
     challenge.runsHistory.forEach((run) => {
       run.attemptsHistory.forEach((attempt) => {
-        csvData += `${attempt.weapon.name},${attempt.headGear.name},${
+        csvData += `${attempt.weapon.name};${attempt.headGear.name};${
           attempt.clothesGear.name
-        },${attempt.shoesGear.name},${attempt.gameMode},${
+        };${attempt.shoesGear.name};${attempt.gameMode};${
           attempt.isVictory ? 'yes' : 'no'
-        },${attempt.updateDate.toLocaleDateString()}\n`;
+        };${attempt.updateDate.toLocaleDateString()}\n`;
       });
     });
 
