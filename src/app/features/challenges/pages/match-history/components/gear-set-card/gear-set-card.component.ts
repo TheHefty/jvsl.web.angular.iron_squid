@@ -146,6 +146,9 @@ export class GearSetCardComponent implements OnChanges {
       });
       this.challenge.attemptsHistory = [];
       this.challenge.lives = 1;
+      for (let i = 0; i < this.gearRerollFuncs.length; i++) {
+        this.gearRerollFuncs[i]();
+      }
     }
 
     this.challenge.updateDate = new Date();

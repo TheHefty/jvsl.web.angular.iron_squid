@@ -1372,13 +1372,6 @@
     "imageUrl": "assets/images/gear/Hed_HDP012.png"
   },
   {
-    "id": 197,
-    "name": "INVISIBLE",
-    "brand": "None",
-    "gearType": "head",
-    "imageUrl": "assets/images/gear/Hed_INV000.png"
-  },
-  {
     "id": 198,
     "name": "Bike Helmet",
     "brand": "Skalop",
